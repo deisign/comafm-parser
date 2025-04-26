@@ -2,13 +2,12 @@ name: Update Tracks
 
 on:
   schedule:
-    - cron: '0 * * * *' # Кожну годину
-  workflow_dispatch: # Можеш вручну запускати з GitHub
+    - cron: "0 * * * *" # кожну годину
+  workflow_dispatch: # запуск вручну
 
 jobs:
   update-tracks:
     runs-on: ubuntu-latest
-
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -19,15 +18,20 @@ jobs:
           node-version: '20'
 
       - name: Install dependencies
-        run: npm install axios
+        run: npm install
 
-      - name: Run track parser
+      - name: Update tracks
         run: node parser_radioco_history.js
 
-      - name: Commit and push updated tracks.json
+      - name: Configure Git
         run: |
-          git config --global user.email "action@github.com"
-          git config --global user.name "GitHub Action"
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Commit and Push changes
+        run: |
           git add tracks.json
-          git commit -m "Update tracks.json [auto]" || echo "No changes to commit"
+          git commit -m "Update tracks [bot]" || echo "No changes to commit"
           git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
