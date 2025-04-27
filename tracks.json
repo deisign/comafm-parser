@@ -1,5 +1,89 @@
 [
   {
+    "artist": "Dan Whitaker",
+    "title": "3AM Blues",
+    "time": "2025-04-27T08:17:22+00:00",
+    "artwork_url": "https://is5-ssl.mzstatic.com/image/thumb/Music126/v4/d3/db/ab/d3dbabc0-e32b-b015-1280-9d878884b740/197187450466.jpg/100x100bb.jpg"
+  },
+  {
+    "artist": "Jobi Riccio",
+    "title": "Kinder to Myself",
+    "time": "2025-04-27T08:13:48+00:00",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/eb/33/8c/eb338c80-7a90-8b54-6a9e-2e0e7e9eb95a/67478.jpg/100x100bb.jpg"
+  },
+  {
+    "artist": "Marianne Faithfull",
+    "title": "Nobody's fault",
+    "time": "2025-04-27T08:07:22+00:00",
+    "artwork_url": "https://images.radio.co/album_art/s4360dbc20/7196005.100.1610210544.jpg"
+  },
+  {
+    "artist": "Pink Floyd",
+    "title": "Time",
+    "time": "2025-04-27T08:00:21+00:00",
+    "artwork_url": "https://is5-ssl.mzstatic.com/image/thumb/Music49/v4/1d/04/44/1d0444ce-05fe-fcf5-8bdf-6a0bf2bfbc06/source/100x100bb.jpg"
+  },
+  {
+    "artist": "Nico and The Velvet Underground",
+    "title": "Sunday Morning",
+    "time": "2025-04-27T07:57:28+00:00",
+    "artwork_url": "https://images.radio.co/album_art/s4360dbc20/3736601.100.1618423394.jpg"
+  },
+  {
+    "artist": "Lou Reed",
+    "title": "Berlin",
+    "time": "2025-04-27T07:52:16+00:00",
+    "artwork_url": "https://is2-ssl.mzstatic.com/image/thumb/Music127/v4/13/2d/4e/132d4e5c-f0fa-9b06-93be-c96e75e29caa/source/100x100bb.jpg"
+  },
+  {
+    "artist": "The Devil's Daughters",
+    "title": "I'm Comin For You",
+    "time": "2025-04-27T07:49:53+00:00",
+    "artwork_url": "https://images.radio.co/album_art/s4360dbc20/1811385.100.1612534503.jpg"
+  },
+  {
+    "artist": "The Crests",
+    "title": "Step By Step",
+    "time": "2025-04-27T07:47:32+00:00",
+    "artwork_url": "https://images.radio.co/album_art/s4360dbc20/playlist.160439.100.1647759780.jpg"
+  },
+  {
+    "artist": "The Rolling Stones",
+    "title": "Congratulations",
+    "time": "2025-04-27T07:45:09+00:00",
+    "artwork_url": "https://images.radio.co/album_art/s4360dbc20/1881505.100.1597211196.jpg"
+  },
+  {
+    "artist": "Martin Cilia",
+    "title": "End of Summer",
+    "time": "2025-04-27T07:40:50+00:00",
+    "artwork_url": "https://images.radio.co/album_art/s4360dbc20/1864039.100.1597210175.jpg"
+  },
+  {
+    "artist": "Eric Clapton",
+    "title": "I Will Be There",
+    "time": "2025-04-27T07:36:19+00:00",
+    "artwork_url": "https://images.radio.co/album_art/s4360dbc20/playlist.160439.100.1647759780.jpg"
+  },
+  {
+    "artist": "The Cramps",
+    "title": "Strychnine",
+    "time": "2025-04-27T07:33:58+00:00",
+    "artwork_url": "https://images.radio.co/album_art/s4360dbc20/playlist.160439.100.1647759780.jpg"
+  },
+  {
+    "artist": "Meat Loaf",
+    "title": "I'd Do Anything for Love (But I Won't Do That)",
+    "time": "2025-04-27T07:22:02+00:00",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/27/bf/42/27bf420c-6fad-0f8b-7363-ec094769ea16/source/100x100bb.jpg"
+  },
+  {
+    "artist": "Chrissie Hynde",
+    "title": "Adding The Blue",
+    "time": "2025-04-27T07:17:27+00:00",
+    "artwork_url": "https://is2-ssl.mzstatic.com/image/thumb/Music128/v4/c4/2a/9b/c42a9b53-668b-6614-18b8-84ce869473e4/source/100x100bb.jpg"
+  },
+  {
     "artist": "David Bowie",
     "title": "Quicksand",
     "time": "2025-04-27T07:12:30+00:00",
