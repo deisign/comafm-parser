@@ -2,36 +2,46 @@ name: Update Tracks
 
 on:
   schedule:
-    - cron: "0 * * * *" # кожну годину
-  workflow_dispatch: # запуск вручну
+    - cron: '0 * * * *' # Запуск каждую часину
+  workflow_dispatch:    # Возможность ручного запуска через кнопку
+
+permissions:
+  contents: write       # Разрешаем Actions пушить в репо
 
 jobs:
   update-tracks:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      with:
+        persist-credentials: false
 
-      - name: Setup Node.js
-        uses: actions/setup-node@v4
-        with:
-          node-version: '20'
+    - name: Setup Node.js
+      uses: actions/setup-node@v4
+      with:
+        node-version: '20'
 
-      - name: Install dependencies
-        run: npm install
+    - name: Install dependencies
+      run: npm install
 
-      - name: Update tracks
-        run: node parser_radioco_history.js
+    - name: Run track parser
+      run: node parser_radioco_history.js
 
-      - name: Configure Git
-        run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+    - name: Generate weekly chart
+      run: node generate_weekly_chart.js
 
-      - name: Commit and Push changes
-        run: |
-          git add tracks.json
-          git commit -m "Update tracks [bot]" || echo "No changes to commit"
-          git push
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    - name: Set up Git remote with token
+      run: git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/deisign/comafm-parser.git
+
+    - name: Configure Git
+      run: |
+        git config user.name "github-actions[bot]"
+        git config user.email "github-actions[bot]@users.noreply.github.com"
+
+    - name: Commit and push updated files
+      run: |
+        git add tracks.json weekly-charts.json
+        git commit -m "Auto-update: tracks and weekly charts [bot]" || echo "No changes to commit"
+        git push
