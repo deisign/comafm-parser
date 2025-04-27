@@ -1,5 +1,57 @@
 [
   {
+    "name": "David Bowie - Quicksand",
+    "count": 1
+  },
+  {
+    "name": "The Who - Substitute",
+    "count": 1
+  },
+  {
+    "name": "Queen - It's A Hard Life",
+    "count": 1
+  },
+  {
+    "name": "Talking Heads - Life During Wartime",
+    "count": 1
+  },
+  {
+    "name": "The Razorblades - Ode To My Bohemian Lifestyle",
+    "count": 1
+  },
+  {
+    "name": "Emmylou Harris with Willie Nelson - One Paper Kid",
+    "count": 1
+  },
+  {
+    "name": "Dave Stewart and  Vanessa Paradis - Walk On The Wild Side",
+    "count": 1
+  },
+  {
+    "name": "Nick Cave & The Bad Seeds - Papa Won't Leave You Henry",
+    "count": 1
+  },
+  {
+    "name": "Skeeter Davis - The End Of The World",
+    "count": 1
+  },
+  {
+    "name": "Chrissie Hynde & The Valve Bone Woe Ensemble - Hello, Young Lovers",
+    "count": 1
+  },
+  {
+    "name": "Gram Parsons - She",
+    "count": 1
+  },
+  {
+    "name": "Blueground Undergrass - Times They Are A-Changin",
+    "count": 1
+  },
+  {
+    "name": "The Beatles - I Will",
+    "count": 1
+  },
+  {
     "name": "Nico - I'll Keep It With Mine",
     "count": 1
   },
@@ -65,58 +117,6 @@
   },
   {
     "name": "Juice Newton - Hurt",
-    "count": 1
-  },
-  {
-    "name": "Jay & The Americans - Message To Martha (Kentucky Bluebird)",
-    "count": 1
-  },
-  {
-    "name": "Tyrannosaurus Rex - Lofty Skies",
-    "count": 1
-  },
-  {
-    "name": "The Hypnotunez - Sin Sin Sin",
-    "count": 1
-  },
-  {
-    "name": "Spud Sims & the Beltways - One Summer Night",
-    "count": 1
-  },
-  {
-    "name": "The Handsome Family - Green Willow Valley",
-    "count": 1
-  },
-  {
-    "name": "Captain Beefheart - Lo Yo Yo Stuff",
-    "count": 1
-  },
-  {
-    "name": "Bones in the Walls - Stay With Me",
-    "count": 1
-  },
-  {
-    "name": "Leonard Cohen - String Reprise / Treaty",
-    "count": 1
-  },
-  {
-    "name": "The Double Happiness - Drive In",
-    "count": 1
-  },
-  {
-    "name": "The Troggs - With A Girl Like You",
-    "count": 1
-  },
-  {
-    "name": "Freeky Cleen - Light Of My Life",
-    "count": 1
-  },
-  {
-    "name": "Little Lesley & The Bloodshots - Gone",
-    "count": 1
-  },
-  {
-    "name": "Nina Hagen - Sonntagmorgen",
     "count": 1
   }
 ]
