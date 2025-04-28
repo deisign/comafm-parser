@@ -1,5 +1,125 @@
 [
   {
+    "artist": "David Bowie",
+    "title": "Wild Is the Wind",
+    "time": "2025-04-28T18:23:47+00:00",
+    "artwork_url": "https://images.radio.co/album_art/s4360dbc20/1831025.100.1615549568.jpg"
+  },
+  {
+    "artist": "The Deep River Ramblers",
+    "title": "The Second Child",
+    "time": "2025-04-28T18:20:42+00:00",
+    "artwork_url": "https://media.radio.co/artwork/s4360dbc20/cadee6ce32b117a83f3f-100.jpeg"
+  },
+  {
+    "artist": "Robyn Adele Anderson",
+    "title": "I Put a Spell on You (feat. Darcy Wright & Sarah Krauss)",
+    "time": "2025-04-28T18:18:19+00:00",
+    "artwork_url": "https://is4-ssl.mzstatic.com/image/thumb/Music123/v4/27/4d/f1/274df15e-1141-b6e7-8ad9-a4e451ecc852/source/100x100bb.jpg"
+  },
+  {
+    "artist": "B. B. King",
+    "title": "Stormy Monday Blues",
+    "time": "2025-04-28T18:12:14+00:00",
+    "artwork_url": "https://is2-ssl.mzstatic.com/image/thumb/Music128/v4/ab/77/27/ab772766-8133-9ecf-2c44-2db4b1f1519d/source/100x100bb.jpg"
+  },
+  {
+    "artist": "Magnatech",
+    "title": "On The Waves Of Disinformatia",
+    "time": "2025-04-28T18:09:59+00:00",
+    "artwork_url": "https://media.radio.co/artwork/s4360dbc20/cbb92d9a4bb51fbadbca-100.jpeg"
+  },
+  {
+    "artist": "The April Family",
+    "title": "Baby, I'm Gone",
+    "time": "2025-04-28T18:06:28+00:00",
+    "artwork_url": "https://media.radio.co/artwork/s4360dbc20/aadb91221d4376fee8ee-100.jpeg"
+  },
+  {
+    "artist": "Dean Owens",
+    "title": "On The Ridge",
+    "time": "2025-04-28T18:02:26+00:00",
+    "artwork_url": "https://media.radio.co/artwork/s4360dbc20/7cde77a4f4ae68d70241-100.jpeg"
+  },
+  {
+    "artist": "Austin Leonard Jones",
+    "title": "Rodeo in Galilee",
+    "time": "2025-04-28T18:01:02+00:00",
+    "artwork_url": "https://media.radio.co/artwork/s4360dbc20/e81b2a925bdd5de99681-100.jpeg"
+  },
+  {
+    "artist": "Your Inner God",
+    "title": "Headstone",
+    "time": "2025-04-28T17:58:12+00:00",
+    "artwork_url": "https://images.radio.co/album_art/s4360dbc20/playlist.67122.100.1646676739.jpg"
+  },
+  {
+    "artist": "Zwyntar",
+    "title": "Погана Кров",
+    "time": "2025-04-28T17:55:07+00:00",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/a0/c3/19/a0c319c9-705f-1eb5-f6b6-7a2d7e8796ac/198004772952.jpg/100x100bb.jpg"
+  },
+  {
+    "artist": "Марiя Бурмака",
+    "title": "Вiдлiтає печаль",
+    "time": "2025-04-28T17:51:35+00:00",
+    "artwork_url": "https://images.radio.co/album_art/s4360dbc20/playlist.67122.100.1646676739.jpg"
+  },
+  {
+    "artist": "Night Surf",
+    "title": "Intro (Bitter)",
+    "time": "2025-04-28T17:49:17+00:00",
+    "artwork_url": "https://images.radio.co/album_art/s4360dbc20/playlist.67122.100.1646676739.jpg"
+  },
+  {
+    "artist": "Freeky Cleen",
+    "title": "Remember Me",
+    "time": "2025-04-28T17:46:48+00:00",
+    "artwork_url": "https://images.radio.co/album_art/s4360dbc20/playlist.67122.100.1646676739.jpg"
+  },
+  {
+    "artist": "Amphibian Man",
+    "title": "Jungle",
+    "time": "2025-04-28T17:44:39+00:00",
+    "artwork_url": "https://is4-ssl.mzstatic.com/image/thumb/Music62/v4/75/a5/43/75a54337-156a-849c-0a76-1957acb4b60f/source/100x100bb.jpg"
+  },
+  {
+    "artist": "Los Kabanos",
+    "title": "Кавалок м'яса",
+    "time": "2025-04-28T17:42:54+00:00",
+    "artwork_url": "https://images.radio.co/album_art/s4360dbc20/9840427.100.1648545332.jpg"
+  },
+  {
+    "artist": "Pest Control",
+    "title": "Red Eyes",
+    "time": "2025-04-28T17:40:50+00:00",
+    "artwork_url": "https://is5-ssl.mzstatic.com/image/thumb/Music112/v4/83/6d/c9/836dc93b-d3f5-5786-f638-cd7b182215e9/artwork.jpg/100x100bb.jpg"
+  },
+  {
+    "artist": "The Wise Guyz",
+    "title": "Lonely And Blue",
+    "time": "2025-04-28T17:38:12+00:00",
+    "artwork_url": "https://is5-ssl.mzstatic.com/image/thumb/Music/v4/6e/15/d1/6e15d17a-4e71-0bdb-aab6-afa73e303a72/source/100x100bb.jpg"
+  },
+  {
+    "artist": "RvB",
+    "title": "I Got a Right To Shout The Blues",
+    "time": "2025-04-28T17:34:56+00:00",
+    "artwork_url": "https://is4-ssl.mzstatic.com/image/thumb/Music3/v4/a7/60/e7/a760e782-294f-121c-3ee7-11ddc7578f0c/source/100x100bb.jpg"
+  },
+  {
+    "artist": "Tomato Juice",
+    "title": "Strange Place",
+    "time": "2025-04-28T17:31:52+00:00",
+    "artwork_url": "https://images.radio.co/album_art/s4360dbc20/playlist.67122.100.1646676739.jpg"
+  },
+  {
+    "artist": "Bessie Smith",
+    "title": "Summertime",
+    "time": "2025-04-28T17:29:11+00:00",
+    "artwork_url": "https://images.radio.co/album_art/s4360dbc20/playlist.39801.100.1614942211.jpg"
+  },
+  {
     "artist": "Judy Henske",
     "title": "God Bless The Child",
     "time": "2025-04-28T17:13:43+00:00",
