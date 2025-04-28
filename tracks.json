@@ -1,5 +1,125 @@
 [
   {
+    "artist": "John Mayall",
+    "title": "They Call It Stormy Monday",
+    "time": "2025-04-28T13:38:34+00:00",
+    "artwork_url": "https://images.radio.co/album_art/s4360dbc20/playlist.42931.100.1647516759.jpg"
+  },
+  {
+    "artist": "The Turtles",
+    "title": "Buzz Saw",
+    "time": "2025-04-28T13:36:38+00:00",
+    "artwork_url": "https://is3-ssl.mzstatic.com/image/thumb/Music18/v4/85/6f/9d/856f9d14-4b16-9836-841a-4a179be8664c/190374905695.jpg/100x100bb.jpg"
+  },
+  {
+    "artist": "Imperial Swing Orchestra",
+    "title": "He Ain't No Good",
+    "time": "2025-04-28T13:33:29+00:00",
+    "artwork_url": "https://images.radio.co/album_art/s4360dbc20/playlist.42931.100.1647516759.jpg"
+  },
+  {
+    "artist": "Leonard Cohen",
+    "title": "Alexandra Leaving",
+    "time": "2025-04-28T13:28:12+00:00",
+    "artwork_url": "https://images.radio.co/album_art/s4360dbc20/1830114.100.1610297247.jpg"
+  },
+  {
+    "artist": "Sid Bass and His Orchestra",
+    "title": "Say It With Music",
+    "time": "2025-04-28T13:25:49+00:00",
+    "artwork_url": "https://images.radio.co/album_art/s4360dbc20/20597355.100.1642243845.jpg"
+  },
+  {
+    "artist": "Champian Fulton Trio",
+    "title": "It's All Right With Me",
+    "time": "2025-04-28T13:22:03+00:00",
+    "artwork_url": "https://is4-ssl.mzstatic.com/image/thumb/Music117/v4/37/b4/1d/37b41d97-78e6-4a01-44eb-19fb160a0697/source/100x100bb.jpg"
+  },
+  {
+    "artist": "The Wise Guyz",
+    "title": "Mean Mean Daddy",
+    "time": "2025-04-28T13:17:16+00:00",
+    "artwork_url": "https://is4-ssl.mzstatic.com/image/thumb/Music/v4/57/90/c5/5790c5a3-8888-26fa-cde5-68aaf081102e/source/100x100bb.jpg"
+  },
+  {
+    "artist": "The Atlantics",
+    "title": "Guitar Concerto In C Major",
+    "time": "2025-04-28T13:12:46+00:00",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/e9/58/a5/e958a5ff-5106-0c43-6213-3698b007132f/793888296572.jpg/100x100bb.jpg"
+  },
+  {
+    "artist": "Blondie",
+    "title": "Denis",
+    "time": "2025-04-28T13:10:32+00:00",
+    "artwork_url": "https://is2-ssl.mzstatic.com/image/thumb/Music4/v4/d0/f1/b9/d0f1b90a-5290-ec5e-6535-bdad90454f40/source/100x100bb.jpg"
+  },
+  {
+    "artist": "Ty Taylor",
+    "title": "Cha Cha Twist",
+    "time": "2025-04-28T13:08:01+00:00",
+    "artwork_url": "https://images.radio.co/album_art/s4360dbc20/playlist.42931.100.1647516759.jpg"
+  },
+  {
+    "artist": "Milt Raskin",
+    "title": "Lehua",
+    "time": "2025-04-28T13:04:48+00:00",
+    "artwork_url": "https://images.radio.co/album_art/s4360dbc20/21233561.100.1646228591.jpg"
+  },
+  {
+    "artist": "John Lee Hooker",
+    "title": "House Rent Blues",
+    "time": "2025-04-28T13:02:04+00:00",
+    "artwork_url": "https://is4-ssl.mzstatic.com/image/thumb/Music124/v4/d7/c0/a6/d7c0a6fc-7e0a-3987-c5dd-5628f1707eaa/source/100x100bb.jpg"
+  },
+  {
+    "artist": "Chum",
+    "title": "Sweet Lowdown",
+    "time": "2025-04-28T12:59:14+00:00",
+    "artwork_url": "https://images.radio.co/album_art/s4360dbc20/playlist.42928.100.1646747890.jpg"
+  },
+  {
+    "artist": "Charles River Valley Boys",
+    "title": "I've Just Seen A Face",
+    "time": "2025-04-28T12:56:40+00:00",
+    "artwork_url": "https://images.radio.co/album_art/s4360dbc20/playlist.42928.100.1646747890.jpg"
+  },
+  {
+    "artist": "Eilen Jewell",
+    "title": "Rich Man's World",
+    "time": "2025-04-28T12:53:48+00:00",
+    "artwork_url": "https://images.radio.co/album_art/s4360dbc20/15946361.100.1613633453.jpg"
+  },
+  {
+    "artist": "The Charades",
+    "title": "Big Hog",
+    "time": "2025-04-28T12:51:32+00:00",
+    "artwork_url": "https://media.radio.co/artwork/s4360dbc20/da56ce5a1bcb44b25c23-100.jpeg"
+  },
+  {
+    "artist": "Flower Smellers",
+    "title": "Peregrine Blam",
+    "time": "2025-04-28T12:49:20+00:00",
+    "artwork_url": "https://images.radio.co/album_art/s4360dbc20/playlist.42928.100.1646747890.jpg"
+  },
+  {
+    "artist": "Phil ‘Swill’ Odgers",
+    "title": "Ghost Of Rock N Roll",
+    "time": "2025-04-28T12:46:06+00:00",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/a2/cf/74/a2cf7477-6066-371e-092d-7b72533efc63/source/100x100bb.jpg"
+  },
+  {
+    "artist": "Longboard Cruise Control",
+    "title": "Last Rendez Vous",
+    "time": "2025-04-28T12:43:40+00:00",
+    "artwork_url": "https://media.radio.co/artwork/s4360dbc20/ae5d08eca2aa731bcae9-100.jpeg"
+  },
+  {
+    "artist": "Eric Clapton",
+    "title": "Burning Of The Midnight Lamp",
+    "time": "2025-04-28T12:39:23+00:00",
+    "artwork_url": "https://images.radio.co/album_art/s4360dbc20/playlist.42928.100.1646747890.jpg"
+  },
+  {
     "artist": "Vulvette",
     "title": "Tattoo",
     "time": "2025-04-28T12:30:17+00:00",
