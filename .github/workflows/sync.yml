@@ -1,0 +1,31 @@
+name: Sync History to Supabase
+
+on:
+  schedule:
+    - cron: '*/10 * * * *'  # кожні 10 хвилин
+  workflow_dispatch:  # можна запускати вручну через GitHub
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout репозиторій
+        uses: actions/checkout@v3
+
+      - name: Встановити Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Встановити залежності
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Запустити скрипт синхронізації
+        env:
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_API_KEY: ${{ secrets.SUPABASE_API_KEY }}
+          HISTORY_JSON_URL: ${{ secrets.HISTORY_JSON_URL }}
+        run: |
+          python supabase_sync.py
