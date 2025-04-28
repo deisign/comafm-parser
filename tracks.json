@@ -1,5 +1,101 @@
 [
   {
+    "artist": "Judy Henske",
+    "title": "God Bless The Child",
+    "time": "2025-04-28T17:13:43+00:00",
+    "artwork_url": "https://images.radio.co/album_art/s4360dbc20/playlist.39801.100.1614942211.jpg"
+  },
+  {
+    "artist": "Everly Brothers",
+    "title": "Love Hurts",
+    "time": "2025-04-28T17:11:27+00:00",
+    "artwork_url": "https://images.radio.co/album_art/s4360dbc20/playlist.39801.100.1614942211.jpg"
+  },
+  {
+    "artist": "Willie Dixon",
+    "title": "Hoochie Coochie Man",
+    "time": "2025-04-28T17:08:47+00:00",
+    "artwork_url": "https://images.radio.co/album_art/s4360dbc20/1813259.100.1610278649.jpg"
+  },
+  {
+    "artist": "The Go Getters",
+    "title": "Ring Of Fire",
+    "time": "2025-04-28T17:05:21+00:00",
+    "artwork_url": "https://is4-ssl.mzstatic.com/image/thumb/Music128/v4/df/b2/58/dfb258e9-fff1-bc09-187d-5141345625ac/source/100x100bb.jpg"
+  },
+  {
+    "artist": "Ella Fitzgerald & Louis Armstrong",
+    "title": "Dream A Little Dream Of Me",
+    "time": "2025-04-28T17:02:22+00:00",
+    "artwork_url": "https://images.radio.co/album_art/s4360dbc20/3359139.100.1610353829.jpg"
+  },
+  {
+    "artist": "The Animals",
+    "title": "You´re On My Mind",
+    "time": "2025-04-28T16:59:31+00:00",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music60/v4/4b/a5/bd/4ba5bd56-b1b9-22d3-682f-1df1ff1358c8/source/100x100bb.jpg"
+  },
+  {
+    "artist": "The Lucky Devils",
+    "title": "Call Me",
+    "time": "2025-04-28T16:57:22+00:00",
+    "artwork_url": "https://is3-ssl.mzstatic.com/image/thumb/Music118/v4/f8/8b/77/f88b7724-d069-ef12-66e0-a97f5e7ec6ca/source/100x100bb.jpg"
+  },
+  {
+    "artist": "Michael Hutchence and London Symphony Orchestra",
+    "title": "Under My Thumb",
+    "time": "2025-04-28T16:53:59+00:00",
+    "artwork_url": "https://images.radio.co/album_art/s4360dbc20/playlist.39801.100.1614942211.jpg"
+  },
+  {
+    "artist": "Chrissie Hynde & The Valve Bone Woe Ensemble",
+    "title": "Que reste-t-il de nos amours ?",
+    "time": "2025-04-28T16:49:22+00:00",
+    "artwork_url": "https://is2-ssl.mzstatic.com/image/thumb/Music6/v4/db/0a/87/db0a8746-3448-eed9-667a-72656adae02a/source/100x100bb.jpg"
+  },
+  {
+    "artist": "Loreena McKennitt",
+    "title": "Greensleeves",
+    "time": "2025-04-28T16:45:02+00:00",
+    "artwork_url": "https://is3-ssl.mzstatic.com/image/thumb/Music71/v4/88/e5/94/88e5944d-bf74-fb72-18e8-49f47a255620/source/100x100bb.jpg"
+  },
+  {
+    "artist": "Paul Walker & Karen Pfeiffer",
+    "title": "Diamonds and Rust",
+    "time": "2025-04-28T16:40:29+00:00",
+    "artwork_url": "https://is5-ssl.mzstatic.com/image/thumb/Music115/v4/00/68/13/006813b3-9ca1-2e6f-98df-4ef78cd6cb49/06UMGIM20452.rgb.jpg/100x100bb.jpg"
+  },
+  {
+    "artist": "Dale Watson",
+    "title": "Polk Salad Annie",
+    "time": "2025-04-28T16:36:48+00:00",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d6/95/b9/d695b9e2-dfe8-979f-00a8-5a598b9054b1/source/100x100bb.jpg"
+  },
+  {
+    "artist": "Bonnie Raitt",
+    "title": "Runaway",
+    "time": "2025-04-28T16:32:59+00:00",
+    "artwork_url": "https://images.radio.co/album_art/s4360dbc20/1814847.100.1610228414.jpg"
+  },
+  {
+    "artist": "Nick Curran & The Nitelifes",
+    "title": "She's Gone",
+    "time": "2025-04-28T16:29:25+00:00",
+    "artwork_url": "https://images.radio.co/album_art/s4360dbc20/1863832.100.1610210204.jpg"
+  },
+  {
+    "artist": "Carl Perkins",
+    "title": "Folsom Prison Blues",
+    "time": "2025-04-28T16:26:59+00:00",
+    "artwork_url": "https://images.radio.co/album_art/s4360dbc20/playlist.39801.100.1614942211.jpg"
+  },
+  {
+    "artist": "Nena",
+    "title": "Starman",
+    "time": "2025-04-28T16:23:20+00:00",
+    "artwork_url": "https://images.radio.co/album_art/s4360dbc20/playlist.39801.100.1614942211.jpg"
+  },
+  {
     "artist": "Blackmore's Night",
     "title": "Streets Of London",
     "time": "2025-04-28T16:19:37+00:00",
