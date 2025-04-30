@@ -1,5 +1,107 @@
 [
   {
+    "artist": "El Borko",
+    "title": "Unlucky Dragon",
+    "time": "2025-04-30T13:26:40+00:00",
+    "artwork_url": "https://images.radio.co/album_art/s4360dbc20/playlist.558120.100.1647517040.jpg"
+  },
+  {
+    "artist": "Ketty Lester",
+    "title": "Porgy, I Is Your Woman Now",
+    "time": "2025-04-30T13:24:26+00:00",
+    "artwork_url": "https://images.radio.co/album_art/s4360dbc20/18699495.100.1671361612.jpg"
+  },
+  {
+    "artist": "Devil Doll",
+    "title": "You Put A Spell On Me",
+    "time": "2025-04-30T13:20:53+00:00",
+    "artwork_url": "https://is2-ssl.mzstatic.com/image/thumb/Music/v4/e4/0c/29/e40c2967-1989-ec2a-cc42-a6b6bbef47a6/source/100x100bb.jpg"
+  },
+  {
+    "artist": "Chet Atkins",
+    "title": "Wednesday Night Waltz",
+    "time": "2025-04-30T13:18:25+00:00",
+    "artwork_url": "https://images.radio.co/album_art/s4360dbc20/playlist.558120.100.1647517040.jpg"
+  },
+  {
+    "artist": "Herbert Rehbein And His Orchestra",
+    "title": "Speak Low",
+    "time": "2025-04-30T13:14:48+00:00",
+    "artwork_url": "https://images.radio.co/album_art/s4360dbc20/19447201.100.1634668177.jpg"
+  },
+  {
+    "artist": "Beth Lee",
+    "title": "It Was Enough",
+    "time": "2025-04-30T13:11:53+00:00",
+    "artwork_url": "https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/c3/e2/d6/c3e2d6cf-7b19-df6a-dee2-b46e4acc5996/source/100x100bb.jpg"
+  },
+  {
+    "artist": "Mick Ronson",
+    "title": "Like A Rolling Stone",
+    "time": "2025-04-30T13:07:36+00:00",
+    "artwork_url": "https://is5-ssl.mzstatic.com/image/thumb/Music/v4/1d/9b/a0/1d9ba023-f3f8-c6ab-1060-8370ebe22963/source/100x100bb.jpg"
+  },
+  {
+    "artist": "Os Marrones (Vão à praia)",
+    "title": "Today Your Love, Tomorrow The World",
+    "time": "2025-04-30T13:04:48+00:00",
+    "artwork_url": "https://images.radio.co/album_art/s4360dbc20/playlist.558120.100.1647517040.jpg"
+  },
+  {
+    "artist": "Clare Teal",
+    "title": "California Dreamin'",
+    "time": "2025-04-30T13:00:34+00:00",
+    "artwork_url": "https://is4-ssl.mzstatic.com/image/thumb/Music/v4/d3/5c/1d/d35c1d08-3ade-66e9-2938-3eade29e3092/source/100x100bb.jpg"
+  },
+  {
+    "artist": "Herb Alpert and the Tijuana Brass",
+    "title": "El Garbanzo",
+    "time": "2025-04-30T12:58:24+00:00",
+    "artwork_url": "https://is5-ssl.mzstatic.com/image/thumb/Music115/v4/ab/1f/e8/ab1fe82d-8fad-0b7b-b6f9-de89a570f32f/source/100x100bb.jpg"
+  },
+  {
+    "artist": "Johnny Cash",
+    "title": "We'll Meet Again",
+    "time": "2025-04-30T12:55:29+00:00",
+    "artwork_url": "https://images.radio.co/album_art/s4360dbc20/7948904.100.1610204414.jpg"
+  },
+  {
+    "artist": "Donna Dunne & The Mystery Men",
+    "title": "Spirits Free",
+    "time": "2025-04-30T12:52:57+00:00",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/1c/f6/7e/1cf67e9a-0588-2b9f-6927-cbae567389f5/source/100x100bb.jpg"
+  },
+  {
+    "artist": "The Aquaholics",
+    "title": "Carn-Evil",
+    "time": "2025-04-30T12:49:00+00:00",
+    "artwork_url": "https://media.radio.co/artwork/s4360dbc20/30211f0ae63749bde306-100.jpeg"
+  },
+  {
+    "artist": "Kate Ellis",
+    "title": "Bluebirds and Rye",
+    "time": "2025-04-30T12:45:45+00:00",
+    "artwork_url": "https://is2-ssl.mzstatic.com/image/thumb/Music125/v4/50/5a/10/505a109d-497d-4d33-d9b1-ab8400ba03f8/source/100x100bb.jpg"
+  },
+  {
+    "artist": "Halibears",
+    "title": "The Rocking Dudes",
+    "time": "2025-04-30T12:43:04+00:00",
+    "artwork_url": "https://is3-ssl.mzstatic.com/image/thumb/Music126/v4/12/03/dd/1203dd62-db2c-a2da-b2eb-3750884622e2/119125.jpg/100x100bb.jpg"
+  },
+  {
+    "artist": "Lt. Garcia's Magic Music Box",
+    "title": "Mi Amor Es Verdadero",
+    "time": "2025-04-30T12:40:32+00:00",
+    "artwork_url": "https://images.radio.co/album_art/s4360dbc20/playlist.558065.100.1646748158.jpg"
+  },
+  {
+    "artist": "Philip Doyle",
+    "title": "Cocaine Blues",
+    "time": "2025-04-30T12:38:16+00:00",
+    "artwork_url": "https://media.radio.co/artwork/s4360dbc20/4f236fab900256060ece-100.jpeg"
+  },
+  {
     "artist": "Ken Pomeroy",
     "title": "Days Getting Darker",
     "time": "2025-04-30T12:34:09+00:00",
