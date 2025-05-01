@@ -1,5 +1,9 @@
 [
   {
+    "name": "The Stooges - No Fun",
+    "count": 2
+  },
+  {
     "name": "Shocking Blue - Shocking You",
     "count": 2
   },
@@ -100,23 +104,19 @@
     "count": 2
   },
   {
-    "name": "The Madeira - Ancient Winds",
+    "name": "Del Shannon - Runaround Sue",
     "count": 1
   },
   {
-    "name": "Cocteau Twins - Primitive Heart",
+    "name": "Mr. Оч & His Root Boys - Ghost Riders In The Sky",
     "count": 1
   },
   {
-    "name": "Xavier Cugat - Cugi's Cocktail",
+    "name": "Melanie Safka - Purple Haze",
     "count": 1
   },
   {
-    "name": "Ryan Chrys & The Rough Cuts - Seein' You Tonight",
-    "count": 1
-  },
-  {
-    "name": "Pink Floyd - Wish You Were Here",
+    "name": "Elvis Presley - Proud Mary",
     "count": 1
   }
 ]
