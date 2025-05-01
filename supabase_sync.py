@@ -42,6 +42,8 @@ def add_track(payload):
 
 def main():
     history = get_history()
+    print(f"[DEBUG] Отримано треків з history.json: {len(history)}")
+
     seen = set()
     added = 0
 
@@ -49,6 +51,8 @@ def main():
         artist = track.get("artist")
         title = track.get("title")
         key = (artist, title)
+
+        print(f"[DEBUG] Трек: {artist} — {title}")
 
         if not artist or not title or key in seen:
             continue
@@ -61,11 +65,9 @@ def main():
                 "score": 0
             }
 
-            # enrichment
             enriched = lookup_track(artist, title)
             payload.update(enriched)
 
-            # DEBUG LOG
             print("[ENRICHED]", json.dumps(payload, ensure_ascii=False))
 
             if add_track(payload):
