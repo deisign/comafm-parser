@@ -1,13 +1,12 @@
 import os
 import requests
 import json
+from lookup_track import lookup_track
 
-# Отримуємо параметри з середовища
 SUPABASE_URL = os.getenv('SUPABASE_URL')
 SUPABASE_API_KEY = os.getenv('SUPABASE_API_KEY')
 HISTORY_JSON_URL = os.getenv('HISTORY_JSON_URL')
 
-# Заголовки для Supabase API
 headers = {
     "apikey": SUPABASE_API_KEY,
     "Authorization": f"Bearer {SUPABASE_API_KEY}",
@@ -15,41 +14,54 @@ headers = {
 }
 
 def get_history():
-    """Завантажити history.json"""
-    response = requests.get(HISTORY_JSON_URL)
-    if response.status_code == 200:
-        return response.json()
-    else:
-        raise Exception(f"Не вдалося отримати history.json: {response.status_code}")
+    response = requests.get(HISTORY_JSON_URL, timeout=10)
+    response.raise_for_status()
+    return response.json()
 
 def track_exists(artist, title):
-    """Перевірити чи є трек у Supabase"""
     params = {
         "artist": f"eq.{artist}",
         "title": f"eq.{title}",
         "select": "id"
     }
-    response = requests.get(f"{SUPABASE_URL}/rest/v1/tracks", headers=headers, params=params)
-    return bool(response.json())
+    r = requests.get(f"{SUPABASE_URL}/rest/v1/tracks", headers=headers, params=params, timeout=10)
+    if r.status_code == 200 and r.json():
+        return True
+    return False
 
-def add_track(artist, title):
-    """Додати новий трек у Supabase"""
-    payload = {
-        "artist": artist,
-        "title": title,
-        "score": 0
-    }
-    response = requests.post(f"{SUPABASE_URL}/rest/v1/tracks", headers=headers, json=payload)
+def add_track(payload):
+    response = requests.post(f"{SUPABASE_URL}/rest/v1/tracks", headers=headers, json=payload, timeout=10)
+    if response.status_code != 201:
+        print(f"[ERROR] Failed to insert: {payload['artist']} - {payload['title']}")
+        print(response.text)
     return response.status_code == 201
 
 def main():
     history = get_history()
-    unique_tracks = set((track['artist'], track['title']) for track in history)
-
+    seen = set()
     added = 0
-    for artist, title in unique_tracks:
+
+    for track in history:
+        artist = track.get("artist")
+        title = track.get("title")
+        key = (artist, title)
+
+        if not artist or not title or key in seen:
+            continue
+        seen.add(key)
+
         if not track_exists(artist, title):
-            if add_track(artist, title):
+            payload = {
+                "artist": artist,
+                "title": title,
+                "score": 0
+            }
+            # enrichment block
+            enriched = lookup_track(artist, title)
+            payload.update(enriched)
+
+            if add_track(payload):
+                print(f"[ADD] {artist} - {title}")
                 added += 1
 
     print(f"Додано нових треків: {added}")
