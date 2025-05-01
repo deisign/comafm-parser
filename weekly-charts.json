@@ -1,5 +1,17 @@
 [
   {
+    "name": "Peggy Lee - Riders In The Sky",
+    "count": 2
+  },
+  {
+    "name": "Paul Lovecraft - Summertime",
+    "count": 2
+  },
+  {
+    "name": "Jeffrey Bützer - Partialisms 2",
+    "count": 2
+  },
+  {
     "name": "Philip Doyle - All I can Do is Cry",
     "count": 2
   },
@@ -105,18 +117,6 @@
   },
   {
     "name": "The Puppini Sisters - It Don’t Mean A Thing (If It Ain’t Got That Swing)",
-    "count": 2
-  },
-  {
-    "name": "Nouvelle Vague - La Pluie Et Le Beau Temps",
-    "count": 2
-  },
-  {
-    "name": "Atomicos - The Man From Z.O.D.I.A.C.",
-    "count": 2
-  },
-  {
-    "name": "Philip Doyle - Country roads",
     "count": 2
   }
 ]
