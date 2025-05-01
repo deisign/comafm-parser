@@ -1,5 +1,13 @@
 [
   {
+    "name": "Shocking Blue - Shocking You",
+    "count": 2
+  },
+  {
+    "name": "Jimi Hendrix - Angel",
+    "count": 2
+  },
+  {
     "name": "The Snubfighters - Sing Sing Sing",
     "count": 2
   },
@@ -92,31 +100,23 @@
     "count": 2
   },
   {
-    "name": "Paul Weston - All The Things You Are",
+    "name": "The Madeira - Ancient Winds",
     "count": 1
   },
   {
-    "name": "Peggy Lee - 'Till There Was You",
+    "name": "Cocteau Twins - Primitive Heart",
     "count": 1
   },
   {
-    "name": "Dean Owens - Tame The Lion",
+    "name": "Xavier Cugat - Cugi's Cocktail",
     "count": 1
   },
   {
-    "name": "Dick Dale/Stevie Ray Vaughan - Pipeline",
+    "name": "Ryan Chrys & The Rough Cuts - Seein' You Tonight",
     "count": 1
   },
   {
-    "name": "Howlin' Wolf - Back Door Man",
-    "count": 1
-  },
-  {
-    "name": "Jack Marshall - Hot Sombrero",
-    "count": 1
-  },
-  {
-    "name": "Plains - I Walked With You A Ways",
+    "name": "Pink Floyd - Wish You Were Here",
     "count": 1
   }
 ]
