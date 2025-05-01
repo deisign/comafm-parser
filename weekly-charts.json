@@ -1,5 +1,17 @@
 [
   {
+    "name": "The Snubfighters - Sing Sing Sing",
+    "count": 2
+  },
+  {
+    "name": "Samantha Clemons - Wild West",
+    "count": 2
+  },
+  {
+    "name": "The Aquaholics - Standoff",
+    "count": 2
+  },
+  {
     "name": "Tyrannosaurus Rex - Lofty Skies",
     "count": 2
   },
@@ -80,43 +92,31 @@
     "count": 2
   },
   {
-    "name": "George \"Bongo Joe\" Coleman - This Whole World's in a Sad Condition",
+    "name": "Paul Weston - All The Things You Are",
     "count": 1
   },
   {
-    "name": "Leonard Cohen - It's Torn",
+    "name": "Peggy Lee - 'Till There Was You",
     "count": 1
   },
   {
-    "name": "The Surfaris - Bat Man",
+    "name": "Dean Owens - Tame The Lion",
     "count": 1
   },
   {
-    "name": "Dale Watson - Turn The Page",
+    "name": "Dick Dale/Stevie Ray Vaughan - Pipeline",
     "count": 1
   },
   {
-    "name": "Zombie Ghost Train - Trouble",
+    "name": "Howlin' Wolf - Back Door Man",
     "count": 1
   },
   {
-    "name": "The Guana Batz - Heartbeat",
+    "name": "Jack Marshall - Hot Sombrero",
     "count": 1
   },
   {
-    "name": "Mad Marge And The Stonecutters - Monsters",
-    "count": 1
-  },
-  {
-    "name": "Jennie and The Slingers - King Kong",
-    "count": 1
-  },
-  {
-    "name": "The Meteors - (Do The) Blood Feast Twist",
-    "count": 1
-  },
-  {
-    "name": "The 69 Cats - Vampire Shuffle",
+    "name": "Plains - I Walked With You A Ways",
     "count": 1
   }
 ]
