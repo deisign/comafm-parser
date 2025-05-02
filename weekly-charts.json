@@ -1,5 +1,13 @@
 [
   {
+    "name": "John Lee Hooker - Deep Blue Sea",
+    "count": 2
+  },
+  {
+    "name": "Kenyon Hopkins - Lonely Train",
+    "count": 2
+  },
+  {
     "name": "Number Nine - I'm mad at you",
     "count": 2
   },
@@ -109,14 +117,6 @@
   },
   {
     "name": "Emmylou Harris - Ooh Las Vegas",
-    "count": 2
-  },
-  {
-    "name": "Perla Batalla - Famous Blue Raincoat",
-    "count": 2
-  },
-  {
-    "name": "Restless - Money Honey",
     "count": 2
   }
 ]
