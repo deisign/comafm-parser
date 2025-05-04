@@ -1,5 +1,9 @@
 [
   {
+    "name": "Peter Isaacson - Trouble In Mind",
+    "count": 3
+  },
+  {
     "name": "Peggy Lee - Riders In The Sky",
     "count": 3
   },
@@ -14,6 +18,18 @@
   {
     "name": "Marianne Faithfull - As Tears Go By",
     "count": 3
+  },
+  {
+    "name": "BRUUT! - Klets",
+    "count": 2
+  },
+  {
+    "name": "George Shearing - Some Other Spring",
+    "count": 2
+  },
+  {
+    "name": "Diana Krall & Sarah McLachlan - If You Could Read My Mind",
+    "count": 2
   },
   {
     "name": "The Venus In Furs - Bitter-Sweet",
@@ -101,22 +117,6 @@
   },
   {
     "name": "Lee Moses - California Dreaming",
-    "count": 2
-  },
-  {
-    "name": "Martin Denny - A Taste of Honey",
-    "count": 2
-  },
-  {
-    "name": "Janis Joplin - Bye Bye Baby",
-    "count": 2
-  },
-  {
-    "name": "Los Reverb - Aloha!",
-    "count": 2
-  },
-  {
-    "name": "Desert Undertones - Izumo",
     "count": 2
   }
 ]
