@@ -1,5 +1,9 @@
 [
   {
+    "name": "Peggy Lee - Riders In The Sky",
+    "count": 3
+  },
+  {
     "name": "Petula Clark - Cranes Flying South",
     "count": 3
   },
@@ -113,10 +117,6 @@
   },
   {
     "name": "The Berta Boys - Moraine Lake",
-    "count": 2
-  },
-  {
-    "name": "Tex Rubinowitz - Red Cadillac Ana A Black Moustache",
     "count": 2
   }
 ]
