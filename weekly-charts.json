@@ -1,5 +1,9 @@
 [
   {
+    "name": "Meat Loaf - Come Together",
+    "count": 3
+  },
+  {
     "name": "Peter Isaacson - Trouble In Mind",
     "count": 3
   },
@@ -18,6 +22,38 @@
   {
     "name": "Marianne Faithfull - As Tears Go By",
     "count": 3
+  },
+  {
+    "name": "The Venus in Furs - Tumbling Down",
+    "count": 2
+  },
+  {
+    "name": "Richard Cheese - Rock the Casbah",
+    "count": 2
+  },
+  {
+    "name": "The Quakes - Paint It Black",
+    "count": 2
+  },
+  {
+    "name": "Robyn Adele Anderson - Personal Jesus (feat. Brielle Von Hugel & Virginia Cavaliere)",
+    "count": 2
+  },
+  {
+    "name": "Vince Eager - It's Only Make Believe",
+    "count": 2
+  },
+  {
+    "name": "Nicole Atkins & Marissa Nadler - Mr. Blue",
+    "count": 2
+  },
+  {
+    "name": "Henri Rene & His Orchestra - Punctuated Performance",
+    "count": 2
+  },
+  {
+    "name": "Karl-Heinz Kastel - Can’t buy me love",
+    "count": 2
   },
   {
     "name": "Mr. Оч & His Root Boys - Wonderful World",
@@ -81,42 +117,6 @@
   },
   {
     "name": "The Spiratones - Heartbeat in Retreat",
-    "count": 2
-  },
-  {
-    "name": "JUDODOJO - Love Story",
-    "count": 2
-  },
-  {
-    "name": "Los Belkings - Una luz en el alma",
-    "count": 2
-  },
-  {
-    "name": "TarantinosNYC - I Only Want To Be With You",
-    "count": 2
-  },
-  {
-    "name": "Sugarpie And The Candymen - Break On Trough",
-    "count": 2
-  },
-  {
-    "name": "Martin Cilia - Birthday",
-    "count": 2
-  },
-  {
-    "name": "The Charades - Shake",
-    "count": 2
-  },
-  {
-    "name": "Sandy Denny - Fotheringay",
-    "count": 2
-  },
-  {
-    "name": "Sarah Jarosz - When The Lights Go Out",
-    "count": 2
-  },
-  {
-    "name": "Talking Heads - Once In a Lifetime",
     "count": 2
   }
 ]
