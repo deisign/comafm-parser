@@ -1,5 +1,13 @@
 [
   {
+    "name": "Chrissie Hynde & The Valve Bone Woe Ensemble - Hello, Young Lovers",
+    "count": 3
+  },
+  {
+    "name": "David Bowie - Wild Is the Wind",
+    "count": 3
+  },
+  {
     "name": "Meat Loaf - Come Together",
     "count": 3
   },
@@ -22,6 +30,30 @@
   {
     "name": "Marianne Faithfull - As Tears Go By",
     "count": 3
+  },
+  {
+    "name": "Johnny Cash - The Mercy Seat",
+    "count": 2
+  },
+  {
+    "name": "Otis Taylor - Hey Joe",
+    "count": 2
+  },
+  {
+    "name": "The Byrds - The Times They Are A-Changin'",
+    "count": 2
+  },
+  {
+    "name": "Petula Clark - The Windmills Of Your Mind",
+    "count": 2
+  },
+  {
+    "name": "Milva - Chi Mai",
+    "count": 2
+  },
+  {
+    "name": "Joseph Arthur - Stephanie Says",
+    "count": 2
   },
   {
     "name": "The Venus in Furs - Tumbling Down",
@@ -85,38 +117,6 @@
   },
   {
     "name": "Sara Gee & Ramblin Matt feat. Soni Artal - Til The Rain Dries Back Again",
-    "count": 2
-  },
-  {
-    "name": "Phantom Operators - Snake Session",
-    "count": 2
-  },
-  {
-    "name": "The Charades - Magnum Force (Theme)",
-    "count": 2
-  },
-  {
-    "name": "Martin Denny - Midnight Cowboy",
-    "count": 2
-  },
-  {
-    "name": "Lorrie Morgan & Pam Tillis - The End Of The World",
-    "count": 2
-  },
-  {
-    "name": "Serge Gainsbourg - Les Sucettes",
-    "count": 2
-  },
-  {
-    "name": "Cowabunghouls - El Gringo",
-    "count": 2
-  },
-  {
-    "name": "The Duo-Tones - Scratchy",
-    "count": 2
-  },
-  {
-    "name": "The Spiratones - Heartbeat in Retreat",
     "count": 2
   }
 ]
