@@ -1,5 +1,9 @@
 [
   {
+    "name": "Grace Slick - Better Lying Down",
+    "count": 3
+  },
+  {
     "name": "Kameron Mantell - Will You Still Love Me Tomorrow",
     "count": 3
   },
@@ -38,6 +42,22 @@
   {
     "name": "Marianne Faithfull - As Tears Go By",
     "count": 3
+  },
+  {
+    "name": "Dusty Springfield - I Just Don't Know What to Do With Myself",
+    "count": 2
+  },
+  {
+    "name": "Robyn Adele Anderson - Autumn Leaves",
+    "count": 2
+  },
+  {
+    "name": "The Surf Hermits - Sayulita Swell - feat. Sys Malakian",
+    "count": 2
+  },
+  {
+    "name": "Martin Cilia - Help",
+    "count": 2
   },
   {
     "name": "Johnny Cash - Rose Of My Heart",
@@ -97,26 +117,6 @@
   },
   {
     "name": "Tangentg - Waves are for the Surfers",
-    "count": 2
-  },
-  {
-    "name": "Clare Teal - I Will",
-    "count": 2
-  },
-  {
-    "name": "Austin Leonard Jones - Rodeo in Galilee",
-    "count": 2
-  },
-  {
-    "name": "Patti Smith - Frederick",
-    "count": 2
-  },
-  {
-    "name": "The Mermers - Lunar Lullaby",
-    "count": 2
-  },
-  {
-    "name": "The Surf Hermits - Shark Salad - feat. Max Gonzo",
     "count": 2
   }
 ]
