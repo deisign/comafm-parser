@@ -1,5 +1,13 @@
 [
   {
+    "name": "The Puppini Sisters - Spooky",
+    "count": 3
+  },
+  {
+    "name": "Duke Ellington, Ella Fitzgerald - Lullaby of Birdland",
+    "count": 3
+  },
+  {
     "name": "The April Family - Too Much Of A Good Thing",
     "count": 3
   },
@@ -48,6 +56,34 @@
     "count": 3
   },
   {
+    "name": "Melanie - As Tears Go By",
+    "count": 2
+  },
+  {
+    "name": "Philip Doyle - Down the Line",
+    "count": 2
+  },
+  {
+    "name": "Rebekah Del Rio - Llorando (Crying)",
+    "count": 2
+  },
+  {
+    "name": "Dusty Springfield - Losing You",
+    "count": 2
+  },
+  {
+    "name": "John Cale - Hallelujah",
+    "count": 2
+  },
+  {
+    "name": "Ella Fitzgerald - When a woman loves a man",
+    "count": 2
+  },
+  {
+    "name": "Lauren O'Connell - I Only Want to Be With You",
+    "count": 2
+  },
+  {
     "name": "Mick Ronson - Like A Rolling Stone",
     "count": 2
   },
@@ -81,42 +117,6 @@
   },
   {
     "name": "BJ Baartmans & Wild Verband - Only Lovers Know",
-    "count": 2
-  },
-  {
-    "name": "The Supertones - Queso Grande",
-    "count": 2
-  },
-  {
-    "name": "Vince Eager - I Want You, I Need You, I Lo..",
-    "count": 2
-  },
-  {
-    "name": "Murder By Death - Sandy",
-    "count": 2
-  },
-  {
-    "name": "Amphibian Man - Ashes",
-    "count": 2
-  },
-  {
-    "name": "Dale Watson - Turn The Page",
-    "count": 2
-  },
-  {
-    "name": "Melanie Safka - Some Say (I Got Devil)",
-    "count": 2
-  },
-  {
-    "name": "Dusty Springfield - I Just Don't Know What to Do With Myself",
-    "count": 2
-  },
-  {
-    "name": "Robyn Adele Anderson - Autumn Leaves",
-    "count": 2
-  },
-  {
-    "name": "The Surf Hermits - Sayulita Swell - feat. Sys Malakian",
     "count": 2
   }
 ]
