@@ -1,5 +1,9 @@
 [
   {
+    "name": "Chris Connor - Lullaby Of Birdland",
+    "count": 3
+  },
+  {
     "name": "Philip Doyle - All I can Do is Cry",
     "count": 3
   },
@@ -72,6 +76,30 @@
     "count": 3
   },
   {
+    "name": "The Beatles - Eleanor Rigby",
+    "count": 2
+  },
+  {
+    "name": "Dale Watson - Sundown",
+    "count": 2
+  },
+  {
+    "name": "Queen - It's A Hard Life",
+    "count": 2
+  },
+  {
+    "name": "Leonard Cohen - Steer Your Way",
+    "count": 2
+  },
+  {
+    "name": "Los Twangers - La Casa Del Sol Naciente",
+    "count": 2
+  },
+  {
+    "name": "The Stranglers - In The End",
+    "count": 2
+  },
+  {
     "name": "Los Coronas - Rockaway Surfers",
     "count": 2
   },
@@ -89,34 +117,6 @@
   },
   {
     "name": "The Charades - Feel It Still",
-    "count": 2
-  },
-  {
-    "name": "The Cavaleros - Wichita LIneman",
-    "count": 2
-  },
-  {
-    "name": "Vulvette - Get It Where We Can",
-    "count": 2
-  },
-  {
-    "name": "Manos Wild - She Thinks I Still Care",
-    "count": 2
-  },
-  {
-    "name": "Fly Janet - Pipe Dream",
-    "count": 2
-  },
-  {
-    "name": "The April Family - Baby, I'm Gone",
-    "count": 2
-  },
-  {
-    "name": "Furious Nakamura - Wait For The Blackout",
-    "count": 2
-  },
-  {
-    "name": "The Berta Boys - Crowsnest Pass Timelapse",
     "count": 2
   }
 ]
