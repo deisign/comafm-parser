@@ -1,5 +1,25 @@
 [
   {
+    "name": "Petula Clark - I Don't Know How To Love Him",
+    "count": 3
+  },
+  {
+    "name": "Chrissie Hynde & The Valve Bone Woe Ensemble - Que reste-t-il de nos amours ?",
+    "count": 3
+  },
+  {
+    "name": "Tia Brazda - Smile",
+    "count": 3
+  },
+  {
+    "name": "Mr. Оч & His Root Boys - Rawhide",
+    "count": 3
+  },
+  {
+    "name": "Sinéad O'Connor - Nothing Compares 2 U",
+    "count": 3
+  },
+  {
     "name": "Howlin' Wolf - Little Red Rooster",
     "count": 3
   },
@@ -80,43 +100,23 @@
     "count": 3
   },
   {
-    "name": "Bettye LaVette - All My Love",
+    "name": "Alison Krauss - I Will",
     "count": 2
   },
   {
-    "name": "Postmodern Jukebox - Barbie Girl",
+    "name": "Dusty Springfield - I Will Come to You",
     "count": 2
   },
   {
-    "name": "Eric Clapton - Burning Of The Midnight Lamp",
+    "name": "Leon Redbone - Ain't Misbehavin' (I'm Savin' My Love For You)",
     "count": 2
   },
   {
-    "name": "Johnny Cash - Sea Of Heartbreak",
+    "name": "The Lucky Devils - Call Me",
     "count": 2
   },
   {
-    "name": "Eva Cassidy - Autumn Leaves",
-    "count": 2
-  },
-  {
-    "name": "Manic Vila - Justa Couple a Birds",
-    "count": 2
-  },
-  {
-    "name": "Man Or Astro-man? - Escape Velocity",
-    "count": 2
-  },
-  {
-    "name": "Martin Cilia - Strawberry Fields Forever",
-    "count": 2
-  },
-  {
-    "name": "The Dice Cubes - The Lone Wolf Lament",
-    "count": 2
-  },
-  {
-    "name": "Nick Cave And Warren Ellis - Balcony Man",
+    "name": "Barbra Streisand - If You Could Read My Mind",
     "count": 2
   }
 ]
