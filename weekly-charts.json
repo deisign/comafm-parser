@@ -1,5 +1,9 @@
 [
   {
+    "name": "Johnny Cash - The Mercy Seat",
+    "count": 3
+  },
+  {
     "name": "Vespa - Kieszonkowiec Darek",
     "count": 3
   },
@@ -113,10 +117,6 @@
   },
   {
     "name": "The Berta Boys - Millin' In Lacombe",
-    "count": 3
-  },
-  {
-    "name": "The Secret 4 - Lump in A - Like It Like Dat",
     "count": 3
   }
 ]
