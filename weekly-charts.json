@@ -1,5 +1,9 @@
 [
   {
+    "name": "Roy Orbison & The Royal Philharmonic Orchestra - Love Hurts",
+    "count": 3
+  },
+  {
     "name": "The Puppini Sisters - It Don’t Mean A Thing (If It Ain’t Got That Swing)",
     "count": 3
   },
@@ -113,10 +117,6 @@
   },
   {
     "name": "Hot Dozzer - Sweet Lovin'",
-    "count": 3
-  },
-  {
-    "name": "Jeff Beck - Love Is Blue (L'Amour Est Bleu)",
     "count": 3
   }
 ]
