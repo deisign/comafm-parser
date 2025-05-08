@@ -1,5 +1,13 @@
 [
   {
+    "name": "The Dice Cubes - Pucker Up!",
+    "count": 3
+  },
+  {
+    "name": "Tyrannosaurus Rex - Lofty Skies",
+    "count": 3
+  },
+  {
     "name": "Marianne Faithfull - Down Town",
     "count": 3
   },
@@ -109,14 +117,6 @@
   },
   {
     "name": "Desert Undertones - Black Eagle",
-    "count": 3
-  },
-  {
-    "name": "The Hypnotunez - Sin Sin Sin",
-    "count": 3
-  },
-  {
-    "name": "Eddie Cochran - C'mon Everybody",
     "count": 3
   }
 ]
