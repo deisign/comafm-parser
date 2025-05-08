@@ -1,5 +1,17 @@
 [
   {
+    "name": "Marianne Faithfull - Down Town",
+    "count": 3
+  },
+  {
+    "name": "Ken Pomeroy - Stranger",
+    "count": 3
+  },
+  {
+    "name": "Jobi Riccio - Kinder to Myself",
+    "count": 3
+  },
+  {
     "name": "TarantinosNYC - I Only Want To Be With You",
     "count": 3
   },
@@ -105,18 +117,6 @@
   },
   {
     "name": "Eddie Cochran - C'mon Everybody",
-    "count": 3
-  },
-  {
-    "name": "Marianne Faithful - Sister Morphine",
-    "count": 3
-  },
-  {
-    "name": "Manic Vila - In All Fairness...",
-    "count": 3
-  },
-  {
-    "name": "Phantom Operators - California Haze",
     "count": 3
   }
 ]
