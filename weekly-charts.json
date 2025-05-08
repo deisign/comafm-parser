@@ -1,5 +1,13 @@
 [
   {
+    "name": "Jeff Beck - Love Is Blue (L'Amour Est Bleu)",
+    "count": 3
+  },
+  {
+    "name": "Janis Joplin - Bye Bye Baby",
+    "count": 3
+  },
+  {
     "name": "Konstantin Kolesnichenko Quartet - Minor Differences",
     "count": 3
   },
@@ -109,14 +117,6 @@
   },
   {
     "name": "The Charades - Love Is Blue",
-    "count": 3
-  },
-  {
-    "name": "Bonnie Raitt - The Ones We Couldn't Be",
-    "count": 3
-  },
-  {
-    "name": "The Pretenders - Forever Young",
     "count": 3
   }
 ]
