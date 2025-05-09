@@ -1,11 +1,23 @@
 [
   {
+    "name": "Peggy Lee - Riders In The Sky",
+    "count": 4
+  },
+  {
     "name": "Chrissie Hynde & The Valve Bone Woe Ensemble - Hello, Young Lovers",
     "count": 4
   },
   {
     "name": "Kameron Mantell - Will You Still Love Me Tomorrow",
     "count": 4
+  },
+  {
+    "name": "Richie Havens - Drown In My Own Tears",
+    "count": 3
+  },
+  {
+    "name": "Johnny Cash - Personal Jesus",
+    "count": 3
   },
   {
     "name": "Imelda May - Little Pixie",
@@ -105,18 +117,6 @@
   },
   {
     "name": "BJ Baartmans & Wild Verband - What a Song Can Do",
-    "count": 3
-  },
-  {
-    "name": "Henk Hofstede - Famous Blue Raincoat",
-    "count": 3
-  },
-  {
-    "name": "Philip Doyle - Spiderman",
-    "count": 3
-  },
-  {
-    "name": "Carl Perkins - Folsom Prison Blues",
     "count": 3
   }
 ]
