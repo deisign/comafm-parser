@@ -1,5 +1,9 @@
 [
   {
+    "name": "Howlin' Wolf - Little Red Rooster",
+    "count": 4
+  },
+  {
     "name": "Tia Brazda - Smile",
     "count": 4
   },
@@ -14,6 +18,18 @@
   {
     "name": "Kameron Mantell - Will You Still Love Me Tomorrow",
     "count": 4
+  },
+  {
+    "name": "The Deep River Ramblers - The Second Child",
+    "count": 3
+  },
+  {
+    "name": "Nick Curran & The Nitelifes - She's Gone",
+    "count": 3
+  },
+  {
+    "name": "Austin Leonard Jones - I’m Gonna Leave",
+    "count": 3
   },
   {
     "name": "La Vergne Smith - One Scotch, One Bourbon, One Beer",
@@ -101,22 +117,6 @@
   },
   {
     "name": "Sam Cooke - Good Times",
-    "count": 3
-  },
-  {
-    "name": "Morphine - You Look Like Rain",
-    "count": 3
-  },
-  {
-    "name": "Manic Vila - Justa Couple a Birds",
-    "count": 3
-  },
-  {
-    "name": "Tiger Shark Nilsson - Clickbait",
-    "count": 3
-  },
-  {
-    "name": "Los Fuckin´ Surfer Smokers, The Atlantics - Reef Break",
     "count": 3
   }
 ]
