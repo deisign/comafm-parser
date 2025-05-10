@@ -1,5 +1,125 @@
 [
   {
+    "artist": "Solomon Burke",
+    "title": "Drown In My Own Tears",
+    "time": "2025-05-10T02:59:13+00:00",
+    "artwork_url": "https://images.radio.co/album_art/s4360dbc20/playlist.558125.100.1647516804.jpg"
+  },
+  {
+    "artist": "Robert Johnson",
+    "title": "Stop Breakin' Down Blues",
+    "time": "2025-05-10T02:57:02+00:00",
+    "artwork_url": "https://images.radio.co/album_art/s4360dbc20/1812048.100.1612024557.jpg"
+  },
+  {
+    "artist": "Esquivel & His Orchestra",
+    "title": "Carioca",
+    "time": "2025-05-10T02:55:21+00:00",
+    "artwork_url": "https://is2-ssl.mzstatic.com/image/thumb/Music1/v4/82/ea/98/82ea989b-5c14-ba1e-b18c-6da6c9819d1d/source/100x100bb.jpg"
+  },
+  {
+    "artist": "Jackie Gleason",
+    "title": "Moonlight Becomes You",
+    "time": "2025-05-10T02:52:57+00:00",
+    "artwork_url": "https://images.radio.co/album_art/s4360dbc20/playlist.558125.100.1647516804.jpg"
+  },
+  {
+    "artist": "John Cale and Lou Reed",
+    "title": "Style It Takes",
+    "time": "2025-05-10T02:50:06+00:00",
+    "artwork_url": "https://images.radio.co/album_art/s4360dbc20/playlist.558125.100.1647516804.jpg"
+  },
+  {
+    "artist": "Chicago",
+    "title": "Saturday In the Park",
+    "time": "2025-05-10T02:46:20+00:00",
+    "artwork_url": "https://images.radio.co/album_art/s4360dbc20/playlist.558125.100.1647516804.jpg"
+  },
+  {
+    "artist": "Pérez Prado",
+    "title": "Jacqueline and Caroline",
+    "time": "2025-05-10T02:44:07+00:00",
+    "artwork_url": "https://is4-ssl.mzstatic.com/image/thumb/Music6/v4/da/3c/6e/da3c6e0e-422c-8379-ffbe-974e064a28c4/source/100x100bb.jpg"
+  },
+  {
+    "artist": "Jack Klatt",
+    "title": "Edge of the End",
+    "time": "2025-05-10T02:41:07+00:00",
+    "artwork_url": "https://is2-ssl.mzstatic.com/image/thumb/Music126/v4/7e/8d/f4/7e8df424-205c-c0b8-bba4-3d19e8cbcd49/source/100x100bb.jpg"
+  },
+  {
+    "artist": "Sam Cooke",
+    "title": "Good Times",
+    "time": "2025-05-10T02:38:45+00:00",
+    "artwork_url": "https://images.radio.co/album_art/s4360dbc20/playlist.558125.100.1647516804.jpg"
+  },
+  {
+    "artist": "Magnatech",
+    "title": "El Condor Pasa",
+    "time": "2025-05-10T02:35:48+00:00",
+    "artwork_url": "https://images.radio.co/album_art/s4360dbc20/playlist.558125.100.1647516804.jpg"
+  },
+  {
+    "artist": "Sara Gee & Ramblin Matt feat. Soni Artal",
+    "title": "Somewhere In The Mountains",
+    "time": "2025-05-10T02:31:48+00:00",
+    "artwork_url": "https://images.radio.co/album_art/s4360dbc20/15182177.100.1609753290.jpg"
+  },
+  {
+    "artist": "Melanie",
+    "title": "Brand New Key",
+    "time": "2025-05-10T02:24:38+00:00",
+    "artwork_url": "https://is5-ssl.mzstatic.com/image/thumb/Music/v4/9d/f9/f5/9df9f515-a732-12bf-256f-246aea6c8e89/source/100x100bb.jpg"
+  },
+  {
+    "artist": "the Reefriders",
+    "title": "Senor Jimmy",
+    "time": "2025-05-10T02:20:45+00:00",
+    "artwork_url": "https://is2-ssl.mzstatic.com/image/thumb/Music114/v4/ff/1d/e9/ff1de9c7-5b7f-1027-8ec4-4243e4e37250/source/100x100bb.jpg"
+  },
+  {
+    "artist": "Ike & Tina Turner",
+    "title": "Proud Mary",
+    "time": "2025-05-10T02:15:56+00:00",
+    "artwork_url": "https://images.radio.co/album_art/s4360dbc20/1885151.100.1610295774.jpg"
+  },
+  {
+    "artist": "Morphine",
+    "title": "You Look Like Rain",
+    "time": "2025-05-10T02:12:20+00:00",
+    "artwork_url": "https://is2-ssl.mzstatic.com/image/thumb/Music/v4/d5/f1/73/d5f1735b-7ae2-f84e-3a4d-0da878f11f53/source/100x100bb.jpg"
+  },
+  {
+    "artist": "Weather Report",
+    "title": "Three Clowns",
+    "time": "2025-05-10T02:09:15+00:00",
+    "artwork_url": "https://images.radio.co/album_art/s4360dbc20/1823636.100.1610296350.jpg"
+  },
+  {
+    "artist": "John Lee Hooker",
+    "title": "Don`t Look Back",
+    "time": "2025-05-10T02:05:09+00:00",
+    "artwork_url": "https://images.radio.co/album_art/s4360dbc20/playlist.558125.100.1647516804.jpg"
+  },
+  {
+    "artist": "Jimi Hendrix",
+    "title": "Drifting",
+    "time": "2025-05-10T02:01:25+00:00",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music1/v4/f5/2d/38/f52d3858-091b-e741-9450-27b7334c4ea5/source/100x100bb.jpg"
+  },
+  {
+    "artist": "P Paul Fenech",
+    "title": "Ravenous (Family Death House)",
+    "time": "2025-05-10T01:57:51+00:00",
+    "artwork_url": "https://is5-ssl.mzstatic.com/image/thumb/Music118/v4/3a/c9/72/3ac9727b-7695-7f82-dbbd-f8bd0eee883b/source/100x100bb.jpg"
+  },
+  {
+    "artist": "Mozzy Dee",
+    "title": "Tall, Dark, and Handsome",
+    "time": "2025-05-10T01:55:01+00:00",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/9f/d2/7a/9fd27a11-c520-a2c3-5002-7085745190e5/artwork.jpg/100x100bb.jpg"
+  },
+  {
     "artist": "Grant-Lee Phillips",
     "title": "Peace Is a Delicate Thing",
     "time": "2025-05-10T01:19:52+00:00",
