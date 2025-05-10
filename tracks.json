@@ -1,5 +1,101 @@
 [
   {
+    "artist": "Freddie Mercury",
+    "title": "I Was Born To Love You (Special Edition)",
+    "time": "2025-05-10T14:11:59+00:00",
+    "artwork_url": "https://is3-ssl.mzstatic.com/image/thumb/Music113/v4/86/99/cc/8699cc17-1d18-d45c-1c01-def4f3052f77/source/100x100bb.jpg"
+  },
+  {
+    "artist": "Johnny Cash",
+    "title": "The Man Comes Around",
+    "time": "2025-05-10T14:07:35+00:00",
+    "artwork_url": "https://images.radio.co/album_art/s4360dbc20/7948905.100.1610204414.jpg"
+  },
+  {
+    "artist": "Weather Report",
+    "title": "Punk Jazz",
+    "time": "2025-05-10T14:02:34+00:00",
+    "artwork_url": "https://images.radio.co/album_art/s4360dbc20/1823612.100.1610296265.jpg"
+  },
+  {
+    "artist": "The Greystone Collective",
+    "title": "Hawaii Five-O",
+    "time": "2025-05-10T14:00:06+00:00",
+    "artwork_url": "https://is4-ssl.mzstatic.com/image/thumb/Music114/v4/17/fa/c8/17fac823-4acf-f65d-c406-73e8d7a93e18/source/100x100bb.jpg"
+  },
+  {
+    "artist": "Ral Donner",
+    "title": "So Close to Heaven",
+    "time": "2025-05-10T13:57:08+00:00",
+    "artwork_url": "https://images.radio.co/album_art/s4360dbc20/playlist.558125.100.1647516804.jpg"
+  },
+  {
+    "artist": "Jackie Gleason",
+    "title": "Love Is Here To Stay",
+    "time": "2025-05-10T13:53:51+00:00",
+    "artwork_url": "https://is2-ssl.mzstatic.com/image/thumb/Music118/v4/5c/f6/53/5cf653b4-6cc5-7cd9-c297-1c98daf19fe2/source/100x100bb.jpg"
+  },
+  {
+    "artist": "Ella Fitzgerald",
+    "title": "You Won't Be Satisfied",
+    "time": "2025-05-10T13:50:42+00:00",
+    "artwork_url": "https://images.radio.co/album_art/s4360dbc20/1813634.100.1610353829.jpg"
+  },
+  {
+    "artist": "Robert Johnson",
+    "title": "Walkin' Blues",
+    "time": "2025-05-10T13:48:15+00:00",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/2c/2f/6a/2c2f6a08-cbe1-27b2-84ec-e2171595cfc2/source/100x100bb.jpg"
+  },
+  {
+    "artist": "The Sandpipers",
+    "title": "Come Saturday Morning",
+    "time": "2025-05-10T13:45:15+00:00",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/e0/e9/d3/e0e9d369-8cfe-16cd-43d9-7a643450e238/source/100x100bb.jpg"
+  },
+  {
+    "artist": "Jean-Jacques Perrey & Gershon Kingsley",
+    "title": "Electronic Can-Can",
+    "time": "2025-05-10T13:43:15+00:00",
+    "artwork_url": "https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/f0/5b/5e/f05b5eeb-0014-8744-c519-f650399b91a7/source/100x100bb.jpg"
+  },
+  {
+    "artist": "The McCharmlys",
+    "title": "Love Me Too",
+    "time": "2025-05-10T13:41:11+00:00",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/a8/52/0d/a8520df4-9bbb-276f-2179-dbf4423a5989/artwork.jpg/100x100bb.jpg"
+  },
+  {
+    "artist": "Blondie",
+    "title": "The Tide Is High",
+    "time": "2025-05-10T13:36:35+00:00",
+    "artwork_url": "https://is5-ssl.mzstatic.com/image/thumb/Music118/v4/ea/3d/88/ea3d8854-494b-379e-124e-647403f165dd/source/100x100bb.jpg"
+  },
+  {
+    "artist": "Mick Ronson",
+    "title": "You And Me",
+    "time": "2025-05-10T13:33:30+00:00",
+    "artwork_url": "https://is5-ssl.mzstatic.com/image/thumb/Music/v4/1d/9b/a0/1d9ba023-f3f8-c6ab-1060-8370ebe22963/source/100x100bb.jpg"
+  },
+  {
+    "artist": "John Lee Hooker",
+    "title": "Rock 'N' Roll",
+    "time": "2025-05-10T13:30:49+00:00",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music/2a/f0/7f/mzi.iunzzgaf.jpg/100x100bb.jpg"
+  },
+  {
+    "artist": "The Pretenders",
+    "title": "The Last Ride",
+    "time": "2025-05-10T13:27:12+00:00",
+    "artwork_url": "https://is4-ssl.mzstatic.com/image/thumb/Music4/v4/c5/f3/93/c5f3938b-c71c-3c86-bcf2-c60871b6bda9/source/100x100bb.jpg"
+  },
+  {
+    "artist": "Dick Dale",
+    "title": "Tidal Wave",
+    "time": "2025-05-10T13:25:15+00:00",
+    "artwork_url": "https://images.radio.co/album_art/s4360dbc20/playlist.558125.100.1647516804.jpg"
+  },
+  {
     "artist": "Mick Harvey",
     "title": "The Man With The Cabbage Head",
     "time": "2025-05-10T13:22:35+00:00",
