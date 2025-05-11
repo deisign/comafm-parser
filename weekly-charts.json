@@ -1,5 +1,9 @@
 [
   {
+    "name": "Dale Watson - Polk Salad Annie",
+    "count": 4
+  },
+  {
     "name": "Marianne Faithful - Sister Morphine",
     "count": 4
   },
@@ -22,6 +26,22 @@
   {
     "name": "Kameron Mantell - Will You Still Love Me Tomorrow",
     "count": 4
+  },
+  {
+    "name": "Patti Smith - Frederick",
+    "count": 3
+  },
+  {
+    "name": "Kacey Musgraves - Follow Your Arrow",
+    "count": 3
+  },
+  {
+    "name": "Melanie Safka - Tuning My Guitar",
+    "count": 3
+  },
+  {
+    "name": "Little Richard - Jenny Jenny",
+    "count": 3
   },
   {
     "name": "Nina Hagen - Sonntagmorgen",
@@ -97,26 +117,6 @@
   },
   {
     "name": "Nick Curran & The Nitelifes - She's Gone",
-    "count": 3
-  },
-  {
-    "name": "Austin Leonard Jones - I’m Gonna Leave",
-    "count": 3
-  },
-  {
-    "name": "La Vergne Smith - One Scotch, One Bourbon, One Beer",
-    "count": 3
-  },
-  {
-    "name": "Sandy Denny - The Ballad Of Easy Rider",
-    "count": 3
-  },
-  {
-    "name": "Carl Perkins - Blue Suede Shoes",
-    "count": 3
-  },
-  {
-    "name": "The April Family - It's Gonna Hurt",
     "count": 3
   }
 ]
