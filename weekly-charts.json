@@ -1,5 +1,9 @@
 [
   {
+    "name": "Marianne Faithful - Sister Morphine",
+    "count": 4
+  },
+  {
     "name": "Howlin' Wolf - Little Red Rooster",
     "count": 4
   },
@@ -18,6 +22,14 @@
   {
     "name": "Kameron Mantell - Will You Still Love Me Tomorrow",
     "count": 4
+  },
+  {
+    "name": "Johnny Cash - Rose Of My Heart",
+    "count": 3
+  },
+  {
+    "name": "Cocteau Twins - Primitive Heart",
+    "count": 3
   },
   {
     "name": "tsrct - smoke den",
@@ -105,18 +117,6 @@
   },
   {
     "name": "The Desolate Coast - Tangled Up In Macramé",
-    "count": 3
-  },
-  {
-    "name": "Molly Tuttle & Golden Highway - Here in California (feat. AJ Lee and Jack Tuttle)",
-    "count": 3
-  },
-  {
-    "name": "Amphibian Man - Philosopher's Stone",
-    "count": 3
-  },
-  {
-    "name": "The Byrds - Lay Down Your Weary Tune",
     "count": 3
   }
 ]
