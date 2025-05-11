@@ -1,5 +1,9 @@
 [
   {
+    "name": "Philip Doyle - All I can Do is Cry",
+    "count": 4
+  },
+  {
     "name": "The Puppini Sisters - Spooky",
     "count": 4
   },
@@ -30,6 +34,14 @@
   {
     "name": "Kameron Mantell - Will You Still Love Me Tomorrow",
     "count": 4
+  },
+  {
+    "name": "Johnny Cash - Hurt",
+    "count": 3
+  },
+  {
+    "name": "Martin Cilia - While My Guitar Gently Weeps",
+    "count": 3
   },
   {
     "name": "Creedence Clearwater Revival - Born On the Bayou",
@@ -105,18 +117,6 @@
   },
   {
     "name": "Nina Hagen - Sonntagmorgen",
-    "count": 3
-  },
-  {
-    "name": "Rhythm Sophie - Bumble Bee",
-    "count": 3
-  },
-  {
-    "name": "Elvis Presley - You Don't Know Me",
-    "count": 3
-  },
-  {
-    "name": "Shocking Blue - Hot Sand",
     "count": 3
   }
 ]
