@@ -1,5 +1,9 @@
 [
   {
+    "name": "Marianne Faithfull - As Tears Go By",
+    "count": 4
+  },
+  {
     "name": "BJ Baartmans & Wild Verband - Daddy's Eyes",
     "count": 4
   },
@@ -50,6 +54,14 @@
   {
     "name": "Kameron Mantell - Will You Still Love Me Tomorrow",
     "count": 4
+  },
+  {
+    "name": "The Back-Wash Rhythm Band - Coral Below",
+    "count": 3
+  },
+  {
+    "name": "Gordon Lightfoot - If You Could Read My Mind",
+    "count": 3
   },
   {
     "name": "The Rutles - Doubleback Alley",
@@ -105,18 +117,6 @@
   },
   {
     "name": "The Bradipos IV - Baby, It's You",
-    "count": 3
-  },
-  {
-    "name": "Arlo Mckinley - This Mess We're In",
-    "count": 3
-  },
-  {
-    "name": "The Byrds - The Times They Are A-Changin'",
-    "count": 3
-  },
-  {
-    "name": "Devil Doll - King of Brooklyn",
     "count": 3
   }
 ]
