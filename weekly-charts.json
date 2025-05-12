@@ -1,5 +1,9 @@
 [
   {
+    "name": "Meat Loaf - Come Together",
+    "count": 4
+  },
+  {
     "name": "Grace Slick - Better Lying Down",
     "count": 4
   },
@@ -38,6 +42,14 @@
   {
     "name": "Kameron Mantell - Will You Still Love Me Tomorrow",
     "count": 4
+  },
+  {
+    "name": "Man Or Astro-man? - Escape Velocity",
+    "count": 3
+  },
+  {
+    "name": "Haley Reinhart - Black Hole Sun",
+    "count": 3
   },
   {
     "name": "The Crossfires - Silver Bullet",
@@ -105,18 +117,6 @@
   },
   {
     "name": "The Animals - Maudie",
-    "count": 3
-  },
-  {
-    "name": "Emmylou Harris - For No One",
-    "count": 3
-  },
-  {
-    "name": "The Pretty Things - Love in Vain",
-    "count": 3
-  },
-  {
-    "name": "Amanda Palmer - Caroline Says II",
     "count": 3
   }
 ]
