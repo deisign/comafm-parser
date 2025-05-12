@@ -1,5 +1,9 @@
 [
   {
+    "name": "Grace Slick - Better Lying Down",
+    "count": 4
+  },
+  {
     "name": "Philip Doyle - All I can Do is Cry",
     "count": 4
   },
@@ -34,6 +38,10 @@
   {
     "name": "Kameron Mantell - Will You Still Love Me Tomorrow",
     "count": 4
+  },
+  {
+    "name": "The Stooges - No Fun",
+    "count": 3
   },
   {
     "name": "Vince Eager - The Most Beautiful Girl",
@@ -109,14 +117,6 @@
   },
   {
     "name": "Creedence Clearwater Revival - Born On the Bayou",
-    "count": 3
-  },
-  {
-    "name": "P Paul Fenech - Bad Universe",
-    "count": 3
-  },
-  {
-    "name": "Art Garfunkel - I Will",
     "count": 3
   }
 ]
