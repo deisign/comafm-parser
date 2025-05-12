@@ -1,5 +1,9 @@
 [
   {
+    "name": "BJ Baartmans & Wild Verband - Daddy's Eyes",
+    "count": 4
+  },
+  {
     "name": "Hot Dozzer - Sweet Lovin'",
     "count": 4
   },
@@ -46,6 +50,14 @@
   {
     "name": "Kameron Mantell - Will You Still Love Me Tomorrow",
     "count": 4
+  },
+  {
+    "name": "The Rutles - Doubleback Alley",
+    "count": 3
+  },
+  {
+    "name": "Stereophonic Space Sound Unlimited - Chicken Skin",
+    "count": 3
   },
   {
     "name": "Konstantin Kolesnichenko Quartet - Clockface",
@@ -105,18 +117,6 @@
   },
   {
     "name": "Devil Doll - King of Brooklyn",
-    "count": 3
-  },
-  {
-    "name": "Leon Redbone - Ain't Misbehavin' (I'm Savin' My Love For You)",
-    "count": 3
-  },
-  {
-    "name": "Bettye LaVette - It Ain’t Me Babe",
-    "count": 3
-  },
-  {
-    "name": "The Deep River Ramblers - Paper Wings",
     "count": 3
   }
 ]
