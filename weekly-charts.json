@@ -1,5 +1,9 @@
 [
   {
+    "name": "Peggy Lee - Riders In The Sky",
+    "count": 5
+  },
+  {
     "name": "Marianne Faithfull - As Tears Go By",
     "count": 4
   },
@@ -44,16 +48,20 @@
     "count": 4
   },
   {
-    "name": "Peggy Lee - Riders In The Sky",
-    "count": 4
-  },
-  {
     "name": "Chrissie Hynde & The Valve Bone Woe Ensemble - Hello, Young Lovers",
     "count": 4
   },
   {
     "name": "Kameron Mantell - Will You Still Love Me Tomorrow",
     "count": 4
+  },
+  {
+    "name": "The Inquisitors - The Good, the Bad, and the Dead",
+    "count": 3
+  },
+  {
+    "name": "Fly Janet - Pipe Dream",
+    "count": 3
   },
   {
     "name": "Lee Moses - Free At Last",
@@ -109,14 +117,6 @@
   },
   {
     "name": "Man Or Astro-man? - Escape Velocity",
-    "count": 3
-  },
-  {
-    "name": "Haley Reinhart - Black Hole Sun",
-    "count": 3
-  },
-  {
-    "name": "The Crossfires - Silver Bullet",
     "count": 3
   }
 ]
