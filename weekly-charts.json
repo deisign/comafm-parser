@@ -1,5 +1,9 @@
 [
   {
+    "name": "Hot Dozzer - Sweet Lovin'",
+    "count": 4
+  },
+  {
     "name": "Meat Loaf - Come Together",
     "count": 4
   },
@@ -42,6 +46,14 @@
   {
     "name": "Kameron Mantell - Will You Still Love Me Tomorrow",
     "count": 4
+  },
+  {
+    "name": "Konstantin Kolesnichenko Quartet - Clockface",
+    "count": 3
+  },
+  {
+    "name": "Konstantin Kolesnichenko - East Breeze",
+    "count": 3
   },
   {
     "name": "Sugarpie And The Candymen - Fire",
@@ -105,18 +117,6 @@
   },
   {
     "name": "The Deep River Ramblers - Paper Wings",
-    "count": 3
-  },
-  {
-    "name": "The Charades - Magnum Force (Theme)",
-    "count": 3
-  },
-  {
-    "name": "BJ Baartmans & Wild Verband - Only Lovers Know",
-    "count": 3
-  },
-  {
-    "name": "The Berta Boys - High Level Bridge",
     "count": 3
   }
 ]
