@@ -4,6 +4,10 @@
     "count": 5
   },
   {
+    "name": "Carl Perkins - Blue Suede Shoes",
+    "count": 4
+  },
+  {
     "name": "Peter Isaacson - Trouble In Mind",
     "count": 4
   },
@@ -68,6 +72,18 @@
     "count": 4
   },
   {
+    "name": "Elvis Presley - Proud Mary",
+    "count": 3
+  },
+  {
+    "name": "Dick Dale - Night Ride",
+    "count": 3
+  },
+  {
+    "name": "Magnatech - La Plus Belle Fille Du Village",
+    "count": 3
+  },
+  {
     "name": "Juan Garcia Esquivel - Cachita (Óyeme Cachita)",
     "count": 3
   },
@@ -101,22 +117,6 @@
   },
   {
     "name": "Holly Cole - I Don't Wanna Grow Up",
-    "count": 3
-  },
-  {
-    "name": "The Animals - The House Of The Rising Sun",
-    "count": 3
-  },
-  {
-    "name": "Melanie Safka - Purple Haze",
-    "count": 3
-  },
-  {
-    "name": "King Kurt - Mack The Knife",
-    "count": 3
-  },
-  {
-    "name": "Gene Vincent & The Shouts - Good Golly Miss Molly",
     "count": 3
   }
 ]
