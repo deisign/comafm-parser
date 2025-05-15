@@ -1,11 +1,19 @@
 [
   {
+    "name": "Philip Doyle - All I can Do is Cry",
+    "count": 5
+  },
+  {
     "name": "Dale Watson - Polk Salad Annie",
     "count": 5
   },
   {
     "name": "Peggy Lee - Riders In The Sky",
     "count": 5
+  },
+  {
+    "name": "Sam Cooke - Good Times",
+    "count": 4
   },
   {
     "name": "Clare Teal - California Dreamin'",
@@ -109,14 +117,6 @@
   },
   {
     "name": "Blondie - Denis",
-    "count": 4
-  },
-  {
-    "name": "Marianne Faithfull - As Tears Go By",
-    "count": 4
-  },
-  {
-    "name": "BJ Baartmans & Wild Verband - Daddy's Eyes",
     "count": 4
   }
 ]
