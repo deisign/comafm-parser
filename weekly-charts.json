@@ -1,7 +1,19 @@
 [
   {
+    "name": "Dale Watson - Polk Salad Annie",
+    "count": 5
+  },
+  {
     "name": "Peggy Lee - Riders In The Sky",
     "count": 5
+  },
+  {
+    "name": "The Epileptic Hillbillys - Personal Jesus",
+    "count": 4
+  },
+  {
+    "name": "Dave Alvin - Highway 61 Revisited",
+    "count": 4
   },
   {
     "name": "The Low-Fi Drifters - Johnny Remember Me",
@@ -92,10 +104,6 @@
     "count": 4
   },
   {
-    "name": "Dale Watson - Polk Salad Annie",
-    "count": 4
-  },
-  {
     "name": "Marianne Faithful - Sister Morphine",
     "count": 4
   },
@@ -110,13 +118,5 @@
   {
     "name": "Chrissie Hynde & The Valve Bone Woe Ensemble - Hello, Young Lovers",
     "count": 4
-  },
-  {
-    "name": "Kameron Mantell - Will You Still Love Me Tomorrow",
-    "count": 4
-  },
-  {
-    "name": "Sugarpie And The Candymen - Lithium",
-    "count": 3
   }
 ]
