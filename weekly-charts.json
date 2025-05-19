@@ -64,6 +64,22 @@
     "count": 5
   },
   {
+    "name": "John Lee Hooker - Deep Blue Sea",
+    "count": 4
+  },
+  {
+    "name": "Amphibian Man - Crystallization",
+    "count": 4
+  },
+  {
+    "name": "Barbra Streisand - If You Could Read My Mind",
+    "count": 4
+  },
+  {
+    "name": "Los Reverb - Aloha!",
+    "count": 4
+  },
+  {
     "name": "Johnny Cash - I See A Darkness",
     "count": 4
   },
@@ -101,22 +117,6 @@
   },
   {
     "name": "Keenan McKenzie & the Riffers - Subtle Stroll",
-    "count": 4
-  },
-  {
-    "name": "Peter Isaacson - I Shall Be Released",
-    "count": 4
-  },
-  {
-    "name": "Little Richard - Jenny Jenny",
-    "count": 4
-  },
-  {
-    "name": "Charlie Sundown - Midnight Awakes",
-    "count": 4
-  },
-  {
-    "name": "The Beatles - Till There Was You",
     "count": 4
   }
 ]
