@@ -1,5 +1,9 @@
 [
   {
+    "name": "Chrissie Hynde & The Valve Bone Woe Ensemble - Que reste-t-il de nos amours ?",
+    "count": 6
+  },
+  {
     "name": "Los Fuckin´ Surfer Smokers, The Atlantics - Reef Break",
     "count": 6
   },
@@ -46,6 +50,14 @@
   {
     "name": "Peggy Lee - Riders In The Sky",
     "count": 6
+  },
+  {
+    "name": "Art Garfunkel - I Will",
+    "count": 5
+  },
+  {
+    "name": "The Baseballs - Take On Me",
+    "count": 5
   },
   {
     "name": "Peter Isaacson - Trouble In Mind",
@@ -105,18 +117,6 @@
   },
   {
     "name": "Eric Clapton - Running on Faith",
-    "count": 5
-  },
-  {
-    "name": "Manic Vila - Paradise Lost",
-    "count": 5
-  },
-  {
-    "name": "Marianne Faithful - Sister Morphine",
-    "count": 5
-  },
-  {
-    "name": "Elvis Presley - Proud Mary",
     "count": 5
   }
 ]
