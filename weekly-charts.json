@@ -1,5 +1,9 @@
 [
   {
+    "name": "Los Fuckin´ Surfer Smokers, The Atlantics - Reef Break",
+    "count": 6
+  },
+  {
     "name": "Sugarpie And The Candymen - Lithium",
     "count": 6
   },
@@ -42,6 +46,10 @@
   {
     "name": "Peggy Lee - Riders In The Sky",
     "count": 6
+  },
+  {
+    "name": "Johnny Cash - The Man Comes Around",
+    "count": 5
   },
   {
     "name": "The Desolate Coast - Tangled Up In Macramé",
@@ -109,14 +117,6 @@
   },
   {
     "name": "Sugarpie And The Candymen - Fire",
-    "count": 5
-  },
-  {
-    "name": "Ken Pomeroy - Days Getting Darker",
-    "count": 5
-  },
-  {
-    "name": "Lee Moses - California Dreaming",
     "count": 5
   }
 ]
