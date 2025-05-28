@@ -1,5 +1,9 @@
 [
   {
+    "name": "Del Shannon - Runaround Sue",
+    "count": 6
+  },
+  {
     "name": "Marianne Faithfull - As Tears Go By",
     "count": 6
   },
@@ -113,10 +117,6 @@
   },
   {
     "name": "The Beatles - Till There Was You",
-    "count": 5
-  },
-  {
-    "name": "Philip Doyle - Venus",
     "count": 5
   }
 ]
