@@ -1,5 +1,9 @@
 [
   {
+    "name": "The Puppini Sisters - Spooky",
+    "count": 6
+  },
+  {
     "name": "Chrissie Hynde & The Valve Bone Woe Ensemble - Que reste-t-il de nos amours ?",
     "count": 6
   },
@@ -50,6 +54,10 @@
   {
     "name": "Peggy Lee - Riders In The Sky",
     "count": 6
+  },
+  {
+    "name": "The Byrds - The Times They Are A-Changin'",
+    "count": 5
   },
   {
     "name": "Konstantin Kolesnichenko Quartet - Minor Differences",
@@ -109,14 +117,6 @@
   },
   {
     "name": "Otis Clay - Wonderful Tonight",
-    "count": 5
-  },
-  {
-    "name": "The Animals - The House Of The Rising Sun",
-    "count": 5
-  },
-  {
-    "name": "The Cramps - Strychnine",
     "count": 5
   }
 ]
