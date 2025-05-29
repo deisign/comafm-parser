@@ -1,5 +1,9 @@
 [
   {
+    "name": "Harold Melvin & The Blue Notes - Satisfaction Guaranteed",
+    "count": 6
+  },
+  {
     "name": "Philip Doyle - Night Boat To Cairo",
     "count": 6
   },
@@ -76,6 +80,10 @@
     "count": 6
   },
   {
+    "name": "Dave Alvin - Highway 61 Revisited",
+    "count": 5
+  },
+  {
     "name": "Johnny Cash - Rose Of My Heart",
     "count": 5
   },
@@ -109,14 +117,6 @@
   },
   {
     "name": "Hot Dozzer - 16 Chicks",
-    "count": 5
-  },
-  {
-    "name": "The Venus in Furs - Tumbling Down",
-    "count": 5
-  },
-  {
-    "name": "Johnny Cash - Spiritual",
     "count": 5
   }
 ]
