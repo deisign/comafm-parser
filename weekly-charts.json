@@ -1,5 +1,13 @@
 [
   {
+    "name": "Elvis Presley - Proud Mary",
+    "count": 7
+  },
+  {
+    "name": "La Vergne Smith - One Scotch, One Bourbon, One Beer",
+    "count": 7
+  },
+  {
     "name": "Marianne Faithfull - As Tears Go By",
     "count": 7
   },
@@ -22,6 +30,10 @@
   {
     "name": "Dale Watson - Polk Salad Annie",
     "count": 7
+  },
+  {
+    "name": "Peggy Lee - You Go To My Head",
+    "count": 6
   },
   {
     "name": "The Hypnotunez - Sin Sin Sin",
@@ -84,14 +96,6 @@
     "count": 6
   },
   {
-    "name": "Elvis Presley - Proud Mary",
-    "count": 6
-  },
-  {
-    "name": "La Vergne Smith - One Scotch, One Bourbon, One Beer",
-    "count": 6
-  },
-  {
     "name": "Chrissie Hynde & The Valve Bone Woe Ensemble - Hello, Young Lovers",
     "count": 6
   },
@@ -113,10 +117,6 @@
   },
   {
     "name": "Philip Doyle - Night Boat To Cairo",
-    "count": 6
-  },
-  {
-    "name": "Del Shannon - Runaround Sue",
     "count": 6
   }
 ]
