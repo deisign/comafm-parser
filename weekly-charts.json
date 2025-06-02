@@ -1,5 +1,9 @@
 [
   {
+    "name": "Ella Fitzgerald & Louis Armstrong - Dream A Little Dream Of Me",
+    "count": 7
+  },
+  {
     "name": "Elvis Presley - Proud Mary",
     "count": 7
   },
@@ -30,6 +34,10 @@
   {
     "name": "Dale Watson - Polk Salad Annie",
     "count": 7
+  },
+  {
+    "name": "King Kurt - Mack The Knife",
+    "count": 6
   },
   {
     "name": "Annie Lennox - Summertime",
@@ -109,14 +117,6 @@
   },
   {
     "name": "Janis Joplin - I'll Drown In My Own Tears",
-    "count": 6
-  },
-  {
-    "name": "Chrissie Hynde & The Valve Bone Woe Ensemble - Hello, Young Lovers",
-    "count": 6
-  },
-  {
-    "name": "Nena - 99 Red Luft Balloons (English Version)",
     "count": 6
   }
 ]
