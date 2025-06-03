@@ -1,5 +1,9 @@
 [
   {
+    "name": "Howlin' Wolf - Little Red Rooster",
+    "count": 8
+  },
+  {
     "name": "Chrissie Hynde & The Valve Bone Woe Ensemble - Hello, Young Lovers",
     "count": 7
   },
@@ -32,16 +36,16 @@
     "count": 7
   },
   {
-    "name": "Howlin' Wolf - Little Red Rooster",
-    "count": 7
-  },
-  {
     "name": "Hot Dozzer - Sweet Lovin'",
     "count": 7
   },
   {
     "name": "Dale Watson - Polk Salad Annie",
     "count": 7
+  },
+  {
+    "name": "Vince Eager - I Want You, I Need You, I Lo..",
+    "count": 6
   },
   {
     "name": "Richard Cheese - Rock the Casbah",
@@ -113,10 +117,6 @@
   },
   {
     "name": "The Puppini Sisters - It Don’t Mean A Thing (If It Ain’t Got That Swing)",
-    "count": 6
-  },
-  {
-    "name": "Peter Isaacson - Trouble In Mind",
     "count": 6
   }
 ]
