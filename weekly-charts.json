@@ -1,7 +1,19 @@
 [
   {
+    "name": "Hot Dozzer - Sweet Lovin'",
+    "count": 8
+  },
+  {
     "name": "Howlin' Wolf - Little Red Rooster",
     "count": 8
+  },
+  {
+    "name": "Sugarpie And The Candymen - Fire",
+    "count": 7
+  },
+  {
+    "name": "Otis Clay - Wonderful Tonight",
+    "count": 7
   },
   {
     "name": "Janis Joplin - I'll Drown In My Own Tears",
@@ -60,12 +72,16 @@
     "count": 7
   },
   {
-    "name": "Hot Dozzer - Sweet Lovin'",
+    "name": "Dale Watson - Polk Salad Annie",
     "count": 7
   },
   {
-    "name": "Dale Watson - Polk Salad Annie",
-    "count": 7
+    "name": "Robyn Adele Anderson - Personal Jesus (feat. Brielle Von Hugel & Virginia Cavaliere)",
+    "count": 6
+  },
+  {
+    "name": "The Brothers Four - Michelle",
+    "count": 6
   },
   {
     "name": "Nena - Starman",
@@ -101,22 +117,6 @@
   },
   {
     "name": "Marianne Faithful - Sister Morphine",
-    "count": 6
-  },
-  {
-    "name": "Lee Moses - California Dreaming",
-    "count": 6
-  },
-  {
-    "name": "Clare Teal - Tea For Two",
-    "count": 6
-  },
-  {
-    "name": "Janis Joplin - Bye Bye Baby",
-    "count": 6
-  },
-  {
-    "name": "Petula Clark - If Ever You're Lonely",
     "count": 6
   }
 ]
