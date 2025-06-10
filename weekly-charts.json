@@ -1,5 +1,13 @@
 [
   {
+    "name": "Marianne Faithfull - As Tears Go By",
+    "count": 8
+  },
+  {
+    "name": "Del Shannon - Runaround Sue",
+    "count": 8
+  },
+  {
     "name": "Manic Vila - Justa Couple a Birds",
     "count": 8
   },
@@ -22,6 +30,14 @@
   {
     "name": "Howlin' Wolf - Little Red Rooster",
     "count": 8
+  },
+  {
+    "name": "Philip Doyle - Night Boat To Cairo",
+    "count": 7
+  },
+  {
+    "name": "Mercury Rev - Caroline Says II",
+    "count": 7
   },
   {
     "name": "BJ Baartmans & Wild Verband - Daddy's Eyes",
@@ -88,10 +104,6 @@
     "count": 7
   },
   {
-    "name": "Del Shannon - Runaround Sue",
-    "count": 7
-  },
-  {
     "name": "Bettye LaVette - It Ain’t Me Babe",
     "count": 7
   },
@@ -105,18 +117,6 @@
   },
   {
     "name": "Lee Moses - Hey Joe",
-    "count": 7
-  },
-  {
-    "name": "Sugarpie And The Candymen - Fire",
-    "count": 7
-  },
-  {
-    "name": "Otis Clay - Wonderful Tonight",
-    "count": 7
-  },
-  {
-    "name": "Janis Joplin - I'll Drown In My Own Tears",
     "count": 7
   }
 ]
