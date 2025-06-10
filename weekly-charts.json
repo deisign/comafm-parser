@@ -1,5 +1,9 @@
 [
   {
+    "name": "Lee Moses - Hey Joe",
+    "count": 8
+  },
+  {
     "name": "Marianne Faithfull - As Tears Go By",
     "count": 8
   },
@@ -113,10 +117,6 @@
   },
   {
     "name": "Peggy Lee - Riders In The Sky",
-    "count": 7
-  },
-  {
-    "name": "Lee Moses - Hey Joe",
     "count": 7
   }
 ]
