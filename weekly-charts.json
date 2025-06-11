@@ -1,5 +1,9 @@
 [
   {
+    "name": "Southern Culture On The Skids - Can't seem to make you mine",
+    "count": 8
+  },
+  {
     "name": "Peggy Lee - Riders In The Sky",
     "count": 8
   },
@@ -38,6 +42,10 @@
   {
     "name": "Howlin' Wolf - Little Red Rooster",
     "count": 8
+  },
+  {
+    "name": "Gene Vincent & The Shouts - Good Golly Miss Molly",
+    "count": 7
   },
   {
     "name": "Petula Clark - If Ever You're Lonely",
@@ -109,14 +117,6 @@
   },
   {
     "name": "King Dude - Seven Beers With The Wrong Woman",
-    "count": 7
-  },
-  {
-    "name": "Southern Culture On The Skids - Can't seem to make you mine",
-    "count": 7
-  },
-  {
-    "name": "Bettye LaVette - It Ain’t Me Babe",
     "count": 7
   }
 ]
