@@ -1,5 +1,9 @@
 [
   {
+    "name": "Peggy Lee - Riders In The Sky",
+    "count": 8
+  },
+  {
     "name": "Lee Moses - Hey Joe",
     "count": 8
   },
@@ -34,6 +38,10 @@
   {
     "name": "Howlin' Wolf - Little Red Rooster",
     "count": 8
+  },
+  {
+    "name": "Petula Clark - If Ever You're Lonely",
+    "count": 7
   },
   {
     "name": "Philip Doyle - Night Boat To Cairo",
@@ -109,14 +117,6 @@
   },
   {
     "name": "Bettye LaVette - It Ain’t Me Babe",
-    "count": 7
-  },
-  {
-    "name": "Nena - 99 Red Luft Balloons (English Version)",
-    "count": 7
-  },
-  {
-    "name": "Peggy Lee - Riders In The Sky",
     "count": 7
   }
 ]
