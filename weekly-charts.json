@@ -1,5 +1,9 @@
 [
   {
+    "name": "Bettye LaVette - It Ain’t Me Babe",
+    "count": 8
+  },
+  {
     "name": "Southern Culture On The Skids - Can't seem to make you mine",
     "count": 8
   },
@@ -42,6 +46,10 @@
   {
     "name": "Howlin' Wolf - Little Red Rooster",
     "count": 8
+  },
+  {
+    "name": "Carl Perkins - Mean Woman Blues",
+    "count": 7
   },
   {
     "name": "Marianne Faithful - Sister Morphine",
@@ -109,14 +117,6 @@
   },
   {
     "name": "Art Garfunkel - I Will",
-    "count": 7
-  },
-  {
-    "name": "Little Richard - Lucille",
-    "count": 7
-  },
-  {
-    "name": "Lee Moses - California Dreaming",
     "count": 7
   }
 ]
