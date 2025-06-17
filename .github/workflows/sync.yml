@@ -1,31 +1,29 @@
-name: Sync History to Supabase
+name: Sync Tracks to Supabase
 
 on:
+  workflow_dispatch:
   schedule:
-    - cron: '*/10 * * * *'  # кожні 10 хвилин
-  workflow_dispatch:  # можна запускати вручну через GitHub
+    - cron: '*/30 * * * *'  # Кожні 30 хвилин
 
 jobs:
   sync:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Checkout репозиторій
+      - name: Checkout repo
         uses: actions/checkout@v3
 
-      - name: Встановити Python
+      - name: Set up Python
         uses: actions/setup-python@v4
         with:
-          python-version: '3.x'
+          python-version: '3.11'
 
-      - name: Встановити залежності
-        run: |
-          python -m pip install --upgrade pip
-          pip install -r requirements.txt
+      - name: Install dependencies
+        run: pip install requests
 
-      - name: Запустити скрипт синхронізації
+      - name: Run supabase sync
         env:
           SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
           SUPABASE_API_KEY: ${{ secrets.SUPABASE_API_KEY }}
           HISTORY_JSON_URL: ${{ secrets.HISTORY_JSON_URL }}
-        run: |
-          python supabase_sync.py
+        run: python supabase_sync.py
