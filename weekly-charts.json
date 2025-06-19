@@ -1,5 +1,13 @@
 [
   {
+    "name": "Leon Redbone - Ain't Misbehavin' (I'm Savin' My Love For You)",
+    "count": 9
+  },
+  {
+    "name": "Southern Culture On The Skids - Can't seem to make you mine",
+    "count": 9
+  },
+  {
     "name": "Howlin' Wolf - Little Red Rooster",
     "count": 9
   },
@@ -14,6 +22,14 @@
   {
     "name": "Dale Watson - Polk Salad Annie",
     "count": 9
+  },
+  {
+    "name": "Eddie Cochran - C'mon Everybody",
+    "count": 8
+  },
+  {
+    "name": "Mercury Rev - Caroline Says II",
+    "count": 8
   },
   {
     "name": "Los Fuckin´ Surfer Smokers, The Atlantics - Reef Break",
@@ -92,10 +108,6 @@
     "count": 8
   },
   {
-    "name": "Leon Redbone - Ain't Misbehavin' (I'm Savin' My Love For You)",
-    "count": 8
-  },
-  {
     "name": "Ella Fitzgerald & Louis Armstrong - Dream A Little Dream Of Me",
     "count": 8
   },
@@ -104,19 +116,7 @@
     "count": 8
   },
   {
-    "name": "Southern Culture On The Skids - Can't seem to make you mine",
-    "count": 8
-  },
-  {
     "name": "Peggy Lee - Riders In The Sky",
-    "count": 8
-  },
-  {
-    "name": "Lee Moses - Hey Joe",
-    "count": 8
-  },
-  {
-    "name": "Marianne Faithfull - As Tears Go By",
     "count": 8
   }
 ]
