@@ -1,5 +1,9 @@
 [
   {
+    "name": "Sugarpie And The Candymen - Lithium",
+    "count": 9
+  },
+  {
     "name": "Leon Redbone - Ain't Misbehavin' (I'm Savin' My Love For You)",
     "count": 9
   },
@@ -22,6 +26,10 @@
   {
     "name": "Dale Watson - Polk Salad Annie",
     "count": 9
+  },
+  {
+    "name": "Vince Eager - Jailhouse Rock",
+    "count": 8
   },
   {
     "name": "The Lucky Devils - Call Me",
@@ -109,14 +117,6 @@
   },
   {
     "name": "La Vergne Smith - One Scotch, One Bourbon, One Beer",
-    "count": 8
-  },
-  {
-    "name": "Ella Fitzgerald & Louis Armstrong - Dream A Little Dream Of Me",
-    "count": 8
-  },
-  {
-    "name": "Philip Doyle - All I can Do is Cry",
     "count": 8
   }
 ]
