@@ -4,6 +4,10 @@
     "count": 10
   },
   {
+    "name": "Marianne Faithful - Sister Morphine",
+    "count": 9
+  },
+  {
     "name": "Gram Parsons & The Flying Burrito Brothers - Honky Tonk Women",
     "count": 9
   },
@@ -30,6 +34,10 @@
   {
     "name": "Dale Watson - Polk Salad Annie",
     "count": 9
+  },
+  {
+    "name": "Eric Clapton - Burning Of The Midnight Lamp",
+    "count": 8
   },
   {
     "name": "Carl Perkins - Mean Woman Blues",
@@ -108,15 +116,7 @@
     "count": 8
   },
   {
-    "name": "Marianne Faithful - Sister Morphine",
-    "count": 8
-  },
-  {
     "name": "Peggy Lee - You Go To My Head",
-    "count": 8
-  },
-  {
-    "name": "The Brothers Four - We Can Work It Out",
     "count": 8
   }
 ]
