@@ -1,11 +1,19 @@
 [
   {
+    "name": "Dale Watson - Polk Salad Annie",
+    "count": 10
+  },
+  {
     "name": "Howlin' Wolf - Little Red Rooster",
     "count": 10
   },
   {
     "name": "Bettye LaVette - It Ain’t Me Babe",
     "count": 10
+  },
+  {
+    "name": "Carl Perkins - Blue Suede Shoes",
+    "count": 9
   },
   {
     "name": "Art Garfunkel - I Will",
@@ -45,10 +53,6 @@
   },
   {
     "name": "Chrissie Hynde & The Valve Bone Woe Ensemble - Hello, Young Lovers",
-    "count": 9
-  },
-  {
-    "name": "Dale Watson - Polk Salad Annie",
     "count": 9
   },
   {
@@ -113,10 +117,6 @@
   },
   {
     "name": "Janis Joplin - Bye Bye Baby",
-    "count": 8
-  },
-  {
-    "name": "The Pretty Things - Love in Vain",
     "count": 8
   }
 ]
