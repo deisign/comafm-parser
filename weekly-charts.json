@@ -1,5 +1,9 @@
 [
   {
+    "name": "Marianne Faithfull - As Tears Go By",
+    "count": 10
+  },
+  {
     "name": "Dale Watson - Polk Salad Annie",
     "count": 10
   },
@@ -10,6 +14,10 @@
   {
     "name": "Bettye LaVette - It Ain’t Me Babe",
     "count": 10
+  },
+  {
+    "name": "The Pretty Things - Love in Vain",
+    "count": 9
   },
   {
     "name": "La Vergne Smith - One Scotch, One Bourbon, One Beer",
@@ -64,10 +72,6 @@
     "count": 9
   },
   {
-    "name": "Marianne Faithfull - As Tears Go By",
-    "count": 9
-  },
-  {
     "name": "The Puppini Sisters - Spooky",
     "count": 9
   },
@@ -96,6 +100,10 @@
     "count": 9
   },
   {
+    "name": "Tia Brazda - Lullaby of the Leaves",
+    "count": 8
+  },
+  {
     "name": "Philip Doyle - Venus",
     "count": 8
   },
@@ -109,14 +117,6 @@
   },
   {
     "name": "Dani Trabal Dúo - His latest flame (Marie's the name)",
-    "count": 8
-  },
-  {
-    "name": "The Tourists - I Only Want to Be With You",
-    "count": 8
-  },
-  {
-    "name": "The Puppini Sisters - Java Jive",
     "count": 8
   }
 ]
