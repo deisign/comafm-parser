@@ -64,6 +64,10 @@
     "count": 10
   },
   {
+    "name": "Elvis Presley - You Don't Know Me",
+    "count": 9
+  },
+  {
     "name": "Carl Perkins - That's Allright",
     "count": 9
   },
@@ -113,10 +117,6 @@
   },
   {
     "name": "Janis Joplin - I'll Drown In My Own Tears",
-    "count": 9
-  },
-  {
-    "name": "The Venus in Furs - Tumbling Down",
     "count": 9
   }
 ]
