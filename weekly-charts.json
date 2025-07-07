@@ -4,12 +4,20 @@
     "count": 12
   },
   {
+    "name": "La Vergne Smith - One Scotch, One Bourbon, One Beer",
+    "count": 11
+  },
+  {
     "name": "Dale Watson - Polk Salad Annie",
     "count": 11
   },
   {
     "name": "Bettye LaVette - It Ain’t Me Babe",
     "count": 11
+  },
+  {
+    "name": "Janis Joplin - I'll Drown In My Own Tears",
+    "count": 10
   },
   {
     "name": "Sam Cooke - Good Times",
@@ -48,10 +56,6 @@
     "count": 10
   },
   {
-    "name": "La Vergne Smith - One Scotch, One Bourbon, One Beer",
-    "count": 10
-  },
-  {
     "name": "Nena - 99 Red Luft Balloons (English Version)",
     "count": 10
   },
@@ -74,6 +78,14 @@
   {
     "name": "Howlin' Wolf - Little Red Rooster",
     "count": 10
+  },
+  {
+    "name": "The Beatles - Till There Was You",
+    "count": 9
+  },
+  {
+    "name": "Cass Elliot - Dream a Little Dream of Me",
+    "count": 9
   },
   {
     "name": "Johnny Cash - Four Strong Winds",
@@ -105,18 +117,6 @@
   },
   {
     "name": "Carl Perkins - That's Allright",
-    "count": 9
-  },
-  {
-    "name": "Elvis Presley - Early Mornin' Rain",
-    "count": 9
-  },
-  {
-    "name": "Nick Curran & The Nitelifes - You Know My Love",
-    "count": 9
-  },
-  {
-    "name": "Juice Newton - Crazy LIttle Thing Called Love",
     "count": 9
   }
 ]
