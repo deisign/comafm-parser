@@ -1,7 +1,7 @@
 [
   {
     "name": "Marianne Faithfull - As Tears Go By",
-    "count": 12
+    "count": 13
   },
   {
     "name": "Leon Redbone - Ain't Misbehavin' (I'm Savin' My Love For You)",
@@ -18,6 +18,18 @@
   {
     "name": "Bettye LaVette - It Ain’t Me Babe",
     "count": 11
+  },
+  {
+    "name": "The Tourists - I Only Want to Be With You",
+    "count": 10
+  },
+  {
+    "name": "Clare Teal - Tea For Two",
+    "count": 10
+  },
+  {
+    "name": "Peggy Lee - You Go To My Head",
+    "count": 10
   },
   {
     "name": "Johnny Cash - The One Rose",
@@ -92,6 +104,10 @@
     "count": 10
   },
   {
+    "name": "Lauren O'Connell - I Only Want to Be With You",
+    "count": 9
+  },
+  {
     "name": "Eddie Cochran - C'mon Everybody",
     "count": 9
   },
@@ -101,22 +117,6 @@
   },
   {
     "name": "Bettye Lavette - Complicated",
-    "count": 9
-  },
-  {
-    "name": "Petula Clark - If Ever You're Lonely",
-    "count": 9
-  },
-  {
-    "name": "Ketty Lester - Porgy, I Is Your Woman Now",
-    "count": 9
-  },
-  {
-    "name": "Meat Loaf - Blue Sky",
-    "count": 9
-  },
-  {
-    "name": "The Lucky Devils - Paint It Black",
     "count": 9
   }
 ]
