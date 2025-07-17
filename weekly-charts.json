@@ -4,6 +4,14 @@
     "count": 14
   },
   {
+    "name": "La Vergne Smith - One Scotch, One Bourbon, One Beer",
+    "count": 12
+  },
+  {
+    "name": "Dave Alvin - Highway 61 Revisited",
+    "count": 12
+  },
+  {
     "name": "Bettye LaVette - It Ain’t Me Babe",
     "count": 12
   },
@@ -64,10 +72,6 @@
     "count": 11
   },
   {
-    "name": "Dave Alvin - Highway 61 Revisited",
-    "count": 11
-  },
-  {
     "name": "Mercury Rev - Caroline Says II",
     "count": 11
   },
@@ -92,12 +96,20 @@
     "count": 11
   },
   {
-    "name": "La Vergne Smith - One Scotch, One Bourbon, One Beer",
+    "name": "Dale Watson - Polk Salad Annie",
     "count": 11
   },
   {
-    "name": "Dale Watson - Polk Salad Annie",
-    "count": 11
+    "name": "Philip Doyle - Spiderman",
+    "count": 10
+  },
+  {
+    "name": "Vince Eager - It's Only Make Believe",
+    "count": 10
+  },
+  {
+    "name": "Bettye Lavette - Complicated",
+    "count": 10
   },
   {
     "name": "Los Fuckin´ Surfer Smokers, The Atlantics - Reef Break",
@@ -105,18 +117,6 @@
   },
   {
     "name": "Lee Moses - California Dreaming",
-    "count": 10
-  },
-  {
-    "name": "Chrissie Hynde & The Valve Bone Woe Ensemble - Que reste-t-il de nos amours ?",
-    "count": 10
-  },
-  {
-    "name": "The Go Getters - Ring Of Fire",
-    "count": 10
-  },
-  {
-    "name": "Tia Brazda - Lullaby of the Leaves",
     "count": 10
   }
 ]
