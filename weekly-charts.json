@@ -4,6 +4,10 @@
     "count": 14
   },
   {
+    "name": "Peggy Lee - Riders In The Sky",
+    "count": 12
+  },
+  {
     "name": "Janis Joplin - I'll Drown In My Own Tears",
     "count": 12
   },
@@ -42,6 +46,14 @@
   {
     "name": "Bettye LaVette - It Ain’t Me Babe",
     "count": 12
+  },
+  {
+    "name": "Marianne Faithful - Bells Of Freedom",
+    "count": 11
+  },
+  {
+    "name": "Gram Parsons & The Flying Burrito Brothers - Honky Tonk Women",
+    "count": 11
   },
   {
     "name": "Emmylou Harris - Ooh Las Vegas",
@@ -105,18 +117,6 @@
   },
   {
     "name": "Nick Curran & The Nitelifes - You Know My Love",
-    "count": 11
-  },
-  {
-    "name": "Clare Teal - Tea For Two",
-    "count": 11
-  },
-  {
-    "name": "Petula Clark - If Ever You're Lonely",
-    "count": 11
-  },
-  {
-    "name": "Gene Vincent & The Shouts - Good Golly Miss Molly",
     "count": 11
   }
 ]
