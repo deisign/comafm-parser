@@ -4,6 +4,10 @@
     "count": 16
   },
   {
+    "name": "Dave Alvin - Highway 61 Revisited",
+    "count": 13
+  },
+  {
     "name": "Carl Perkins - Blue Suede Shoes",
     "count": 13
   },
@@ -38,6 +42,10 @@
   {
     "name": "Ketty Lester - Porgy, I Is Your Woman Now",
     "count": 13
+  },
+  {
+    "name": "Eddie Cochran - C'mon Everybody",
+    "count": 12
   },
   {
     "name": "Cyndi Lauper - I Fall To Pieces",
@@ -109,14 +117,6 @@
   },
   {
     "name": "Dusty Springfield - I Will Come to You",
-    "count": 12
-  },
-  {
-    "name": "Elvis Presley - You Don't Know Me",
-    "count": 12
-  },
-  {
-    "name": "Eric Clapton - Burning Of The Midnight Lamp",
     "count": 12
   }
 ]
