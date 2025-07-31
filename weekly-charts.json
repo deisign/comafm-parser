@@ -1,7 +1,11 @@
 [
   {
     "name": "Marianne Faithfull - As Tears Go By",
-    "count": 16
+    "count": 17
+  },
+  {
+    "name": "Dusty Springfield - I Will Come to You",
+    "count": 13
   },
   {
     "name": "Nick Curran & The Nitelifes - She's Gone",
@@ -113,10 +117,6 @@
   },
   {
     "name": "The Rolling Stones - Little Red Rooster",
-    "count": 12
-  },
-  {
-    "name": "Marianne Faithful - Bells Of Freedom",
     "count": 12
   }
 ]
