@@ -1,7 +1,11 @@
 [
   {
     "name": "Marianne Faithfull - As Tears Go By",
-    "count": 17
+    "count": 18
+  },
+  {
+    "name": "Peter Isaacson - Early Morning Rain",
+    "count": 14
   },
   {
     "name": "The Rolling Stones - Little Red Rooster",
@@ -34,6 +38,10 @@
   {
     "name": "Mercury Rev - Caroline Says II",
     "count": 14
+  },
+  {
+    "name": "Peggy Lee - Riders In The Sky",
+    "count": 13
   },
   {
     "name": "Petula Clark - If Ever You're Lonely",
@@ -109,14 +117,6 @@
   },
   {
     "name": "Peter Isaacson - Trouble In Mind",
-    "count": 13
-  },
-  {
-    "name": "Emmylou Harris - Ooh Las Vegas",
-    "count": 13
-  },
-  {
-    "name": "Chrissie Hynde & The Valve Bone Woe Ensemble - Hello, Young Lovers",
     "count": 13
   }
 ]
