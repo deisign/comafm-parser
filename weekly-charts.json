@@ -1,7 +1,7 @@
 [
   {
     "name": "Marianne Faithfull - As Tears Go By",
-    "count": 19
+    "count": 20
   },
   {
     "name": "Vince Eager - I Want You, I Need You, I Lo..",
@@ -10,6 +10,10 @@
   {
     "name": "Vince Eager - It's Only Make Believe",
     "count": 17
+  },
+  {
+    "name": "Peter Isaacson - Early Morning Rain",
+    "count": 16
   },
   {
     "name": "Etta James - I'll Drown In My Own Tears",
@@ -113,10 +117,6 @@
   },
   {
     "name": "Howlin' Wolf - Little Red Rooster",
-    "count": 15
-  },
-  {
-    "name": "MonaLisa Twins - If I Fell",
     "count": 15
   }
 ]
