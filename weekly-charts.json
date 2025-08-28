@@ -1,11 +1,15 @@
 [
   {
     "name": "Marianne Faithfull - As Tears Go By",
-    "count": 21
+    "count": 22
   },
   {
     "name": "Vince Eager - I Want You, I Need You, I Lo..",
     "count": 18
+  },
+  {
+    "name": "The Brothers Four - Yesterday",
+    "count": 17
   },
   {
     "name": "Peter Isaacson - Early Morning Rain",
@@ -68,10 +72,6 @@
     "count": 16
   },
   {
-    "name": "The Brothers Four - Yesterday",
-    "count": 16
-  },
-  {
     "name": "Etta James - I'll Drown In My Own Tears",
     "count": 16
   },
@@ -90,6 +90,10 @@
   {
     "name": "Mercury Rev - Caroline Says II",
     "count": 16
+  },
+  {
+    "name": "Petula Clark - If Ever You're Lonely",
+    "count": 15
   },
   {
     "name": "The Puppini Sisters - It Don’t Mean A Thing (If It Ain’t Got That Swing)",
@@ -113,10 +117,6 @@
   },
   {
     "name": "Gram Parsons & The Flying Burrito Brothers - Honky Tonk Women",
-    "count": 15
-  },
-  {
-    "name": "Nick Curran & The Nitelifes - You Know My Love",
     "count": 15
   }
 ]
