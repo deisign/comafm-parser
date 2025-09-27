@@ -1,7 +1,7 @@
 [
   {
     "name": "Marianne Faithfull - As Tears Go By",
-    "count": 24
+    "count": 25
   },
   {
     "name": "Peggy Lee - Black Coffee",
@@ -68,6 +68,10 @@
     "count": 20
   },
   {
+    "name": "Ella Fitzgerald & Louis Armstrong - Dream A Little Dream Of Me",
+    "count": 19
+  },
+  {
     "name": "Marianne Faithful - Bells Of Freedom",
     "count": 19
   },
@@ -113,10 +117,6 @@
   },
   {
     "name": "Dusty Springfield - I Just Don't Know What to Do With Myself",
-    "count": 19
-  },
-  {
-    "name": "Gram Parsons & The Flying Burrito Brothers - Honky Tonk Women",
     "count": 19
   }
 ]
