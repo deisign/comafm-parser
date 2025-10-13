@@ -1,11 +1,11 @@
 [
   {
-    "name": "Etta James - I'll Drown In My Own Tears",
+    "name": "Marianne Faithfull - As Tears Go By",
     "count": 26
   },
   {
-    "name": "Marianne Faithfull - As Tears Go By",
-    "count": 25
+    "name": "Etta James - I'll Drown In My Own Tears",
+    "count": 26
   },
   {
     "name": "Peter Isaacson - I Shall Be Released",
@@ -64,6 +64,10 @@
     "count": 22
   },
   {
+    "name": "Elvis Presley - My Way",
+    "count": 21
+  },
+  {
     "name": "Gram Parsons & The Flying Burrito Brothers - Honky Tonk Women",
     "count": 21
   },
@@ -112,11 +116,7 @@
     "count": 21
   },
   {
-    "name": "Carl Perkins - That's Allright",
-    "count": 20
-  },
-  {
-    "name": "Sugarpie And The Candymen - Lithium",
+    "name": "Peter Isaacson - Lalena",
     "count": 20
   }
 ]
