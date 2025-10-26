@@ -56,6 +56,10 @@
     "count": 24
   },
   {
+    "name": "Dusty Springfield - I Just Don't Know What to Do With Myself",
+    "count": 23
+  },
+  {
     "name": "Elvis Presley - Early Mornin' Rain",
     "count": 23
   },
@@ -80,6 +84,10 @@
     "count": 23
   },
   {
+    "name": "Marianne Faithful - Bells Of Freedom",
+    "count": 22
+  },
+  {
     "name": "Julie London - Fly Me to the Moon",
     "count": 22
   },
@@ -93,10 +101,6 @@
   },
   {
     "name": "The Brothers Four - All My Loving",
-    "count": 22
-  },
-  {
-    "name": "Dusty Springfield - I Just Don't Know What to Do With Myself",
     "count": 22
   },
   {
@@ -114,9 +118,5 @@
   {
     "name": "Bonnie Raitt - Runaway",
     "count": 22
-  },
-  {
-    "name": "Lee Moses - California Dreaming",
-    "count": 21
   }
 ]
