@@ -1,11 +1,11 @@
 [
   {
-    "name": "Marianne Faithfull - As Tears Go By",
+    "name": "Etta James - I'll Drown In My Own Tears",
     "count": 30
   },
   {
-    "name": "Etta James - I'll Drown In My Own Tears",
-    "count": 29
+    "name": "Marianne Faithfull - As Tears Go By",
+    "count": 30
   },
   {
     "name": "The Brothers Four - Yesterday",
@@ -72,6 +72,10 @@
     "count": 24
   },
   {
+    "name": "The Brothers Four - Michelle",
+    "count": 23
+  },
+  {
     "name": "Bonnie Raitt - Runaway",
     "count": 23
   },
@@ -113,10 +117,6 @@
   },
   {
     "name": "Dusty Springfield - I Close My Eyes and Count to Ten",
-    "count": 22
-  },
-  {
-    "name": "The Brothers Four - Girl",
     "count": 22
   }
 ]
