@@ -1,7 +1,7 @@
 [
   {
     "name": "Etta James - I'll Drown In My Own Tears",
-    "count": 30
+    "count": 31
   },
   {
     "name": "Marianne Faithfull - As Tears Go By",
@@ -30,6 +30,10 @@
   {
     "name": "Peggy Lee - Black Coffee",
     "count": 26
+  },
+  {
+    "name": "Peggy Lee - I've Got You Under My Skin",
+    "count": 25
   },
   {
     "name": "Leon Redbone - Ain't Misbehavin' (I'm Savin' My Love For You)",
@@ -73,10 +77,6 @@
   },
   {
     "name": "Dusty Springfield - I Just Don't Know What to Do With Myself",
-    "count": 24
-  },
-  {
-    "name": "Peggy Lee - I've Got You Under My Skin",
     "count": 24
   },
   {
