@@ -8,11 +8,11 @@
     "count": 31
   },
   {
-    "name": "The Brothers Four - Yesterday",
-    "count": 28
+    "name": "The Brothers Four - We Can Work It Out",
+    "count": 29
   },
   {
-    "name": "The Brothers Four - We Can Work It Out",
+    "name": "The Brothers Four - Yesterday",
     "count": 28
   },
   {
@@ -30,6 +30,10 @@
   {
     "name": "Peggy Lee - Black Coffee",
     "count": 27
+  },
+  {
+    "name": "Dusty Springfield - I Just Don't Know What to Do With Myself",
+    "count": 26
   },
   {
     "name": "Peggy Lee - I've Got You Under My Skin",
@@ -52,6 +56,10 @@
     "count": 26
   },
   {
+    "name": "Peggy Lee - You Go To My Head",
+    "count": 25
+  },
+  {
     "name": "Bonnie Raitt - Runaway",
     "count": 25
   },
@@ -61,10 +69,6 @@
   },
   {
     "name": "Petula Clark - The Windmills Of Your Mind",
-    "count": 25
-  },
-  {
-    "name": "Dusty Springfield - I Just Don't Know What to Do With Myself",
     "count": 25
   },
   {
@@ -108,15 +112,11 @@
     "count": 24
   },
   {
-    "name": "Peggy Lee - You Go To My Head",
-    "count": 24
-  },
-  {
     "name": "Peter Isaacson - Early Morning Rain",
     "count": 24
   },
   {
-    "name": "The Puppini Sisters - Java Jive",
+    "name": "Peter Isaacson - Catch The Wind",
     "count": 23
   }
 ]
