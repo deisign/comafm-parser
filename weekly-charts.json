@@ -24,6 +24,10 @@
     "count": 30
   },
   {
+    "name": "Marianne Faithful - Sister Morphine",
+    "count": 29
+  },
+  {
     "name": "Peter Isaacson - Blowin' In The Wind",
     "count": 29
   },
@@ -37,10 +41,6 @@
   },
   {
     "name": "Vince Eager - I Want You, I Need You, I Lo..",
-    "count": 28
-  },
-  {
-    "name": "Marianne Faithful - Sister Morphine",
     "count": 28
   },
   {
@@ -88,6 +88,18 @@
     "count": 26
   },
   {
+    "name": "Ricky Nelson - Since I Don't Have You",
+    "count": 25
+  },
+  {
+    "name": "Howlin' Wolf - Little Red Rooster",
+    "count": 25
+  },
+  {
+    "name": "The Rolling Stones - Little Red Rooster",
+    "count": 25
+  },
+  {
     "name": "Vince Eager - Jailhouse Rock",
     "count": 25
   },
@@ -105,18 +117,6 @@
   },
   {
     "name": "Peggy Lee - Riders In The Sky",
-    "count": 25
-  },
-  {
-    "name": "Peter Isaacson - Lalena",
-    "count": 25
-  },
-  {
-    "name": "Marianne Faithful - Bells Of Freedom",
-    "count": 25
-  },
-  {
-    "name": "The Brothers Four - Michelle",
     "count": 25
   }
 ]
