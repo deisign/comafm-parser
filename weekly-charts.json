@@ -4,12 +4,12 @@
     "count": 33
   },
   {
-    "name": "Etta James - I'll Drown In My Own Tears",
+    "name": "Vince Eager - It's Only Make Believe",
     "count": 32
   },
   {
-    "name": "Vince Eager - It's Only Make Believe",
-    "count": 31
+    "name": "Etta James - I'll Drown In My Own Tears",
+    "count": 32
   },
   {
     "name": "Peter Isaacson - I Shall Be Released",
@@ -22,6 +22,10 @@
   {
     "name": "The Brothers Four - Yesterday",
     "count": 30
+  },
+  {
+    "name": "Sam Cooke - Good Times",
+    "count": 29
   },
   {
     "name": "Marianne Faithful - Sister Morphine",
@@ -44,10 +48,6 @@
     "count": 28
   },
   {
-    "name": "Sam Cooke - Good Times",
-    "count": 28
-  },
-  {
     "name": "Peggy Lee - Black Coffee",
     "count": 28
   },
@@ -66,6 +66,14 @@
   {
     "name": "Peggy Lee - I've Got You Under My Skin",
     "count": 27
+  },
+  {
+    "name": "Peggy Lee - Riders In The Sky",
+    "count": 26
+  },
+  {
+    "name": "Marianne Faithful - Bells Of Freedom",
+    "count": 26
   },
   {
     "name": "Peter Isaacson - Lalena",
@@ -109,14 +117,6 @@
   },
   {
     "name": "Vince Eager - Jailhouse Rock",
-    "count": 25
-  },
-  {
-    "name": "The Brothers Four - Girl",
-    "count": 25
-  },
-  {
-    "name": "Julie London - Fly Me to the Moon",
     "count": 25
   }
 ]
