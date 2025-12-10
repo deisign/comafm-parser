@@ -60,6 +60,10 @@
     "count": 30
   },
   {
+    "name": "The Brothers Four - Girl",
+    "count": 29
+  },
+  {
     "name": "Dusty Springfield - I Just Don't Know What to Do With Myself",
     "count": 29
   },
@@ -70,6 +74,18 @@
   {
     "name": "Lee Moses - Hey Joe",
     "count": 29
+  },
+  {
+    "name": "Peggy Lee - 'Till There Was You",
+    "count": 28
+  },
+  {
+    "name": "Everly Brothers - Love Hurts",
+    "count": 28
+  },
+  {
+    "name": "Peter Isaacson - Black Sheep Boy",
+    "count": 28
   },
   {
     "name": "Vince Eager - Jailhouse Rock",
@@ -88,10 +104,6 @@
     "count": 28
   },
   {
-    "name": "The Brothers Four - Girl",
-    "count": 28
-  },
-  {
     "name": "Lee Moses - California Dreaming",
     "count": 28
   },
@@ -105,18 +117,6 @@
   },
   {
     "name": "Ricky Nelson - Since I Don't Have You",
-    "count": 27
-  },
-  {
-    "name": "Lulu - The Man Who Sold the World",
-    "count": 27
-  },
-  {
-    "name": "Elvis Presley - Early Mornin' Rain",
-    "count": 27
-  },
-  {
-    "name": "Petula Clark - Fool On The Hill",
     "count": 27
   }
 ]
