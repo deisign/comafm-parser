@@ -1,14 +1,14 @@
 [
   {
+    "name": "Etta James - I'll Drown In My Own Tears",
+    "count": 36
+  },
+  {
     "name": "Vince Eager - It's Only Make Believe",
     "count": 35
   },
   {
     "name": "Marianne Faithfull - As Tears Go By",
-    "count": 35
-  },
-  {
-    "name": "Etta James - I'll Drown In My Own Tears",
     "count": 35
   },
   {
@@ -76,6 +76,10 @@
     "count": 29
   },
   {
+    "name": "The Brothers Four - All My Loving",
+    "count": 28
+  },
+  {
     "name": "Leon Redbone - Ain't Misbehavin' (I'm Savin' My Love For You)",
     "count": 28
   },
@@ -113,10 +117,6 @@
   },
   {
     "name": "Peter Isaacson - Catch The Wind",
-    "count": 27
-  },
-  {
-    "name": "The Quakes - Paint It Black",
     "count": 27
   }
 ]
