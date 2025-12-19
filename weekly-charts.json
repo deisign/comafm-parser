@@ -20,6 +20,10 @@
     "count": 34
   },
   {
+    "name": "Marianne Faithful - Sister Morphine",
+    "count": 33
+  },
+  {
     "name": "Dusty Springfield - I Will Come to You",
     "count": 33
   },
@@ -40,12 +44,12 @@
     "count": 32
   },
   {
-    "name": "Marianne Faithful - Sister Morphine",
+    "name": "Bonnie Raitt - Runaway",
     "count": 32
   },
   {
-    "name": "Bonnie Raitt - Runaway",
-    "count": 32
+    "name": "Sam Cooke - Good Times",
+    "count": 31
   },
   {
     "name": "Peggy Lee - I've Got You Under My Skin",
@@ -80,10 +84,6 @@
     "count": 30
   },
   {
-    "name": "Sam Cooke - Good Times",
-    "count": 30
-  },
-  {
     "name": "The Brothers Four - Yesterday",
     "count": 30
   },
@@ -108,15 +108,15 @@
     "count": 29
   },
   {
+    "name": "Peter Isaacson - Catch The Wind",
+    "count": 28
+  },
+  {
     "name": "Elvis Presley - You Don't Know Me",
     "count": 28
   },
   {
     "name": "Julie London - Fly Me to the Moon",
-    "count": 28
-  },
-  {
-    "name": "Patsy Cline - I Fall To Pieces",
     "count": 28
   }
 ]
