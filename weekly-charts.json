@@ -36,6 +36,10 @@
     "count": 33
   },
   {
+    "name": "Sam Cooke - Good Times",
+    "count": 32
+  },
+  {
     "name": "Peggy Lee - I've Got You Under My Skin",
     "count": 32
   },
@@ -72,8 +76,8 @@
     "count": 31
   },
   {
-    "name": "Sam Cooke - Good Times",
-    "count": 31
+    "name": "Ricky Nelson - Since I Don't Have You",
+    "count": 30
   },
   {
     "name": "Lee Moses - Hey Joe",
@@ -100,23 +104,19 @@
     "count": 30
   },
   {
+    "name": "Elvis Presley - You Don't Know Me",
+    "count": 29
+  },
+  {
+    "name": "Patsy Cline - I Fall To Pieces",
+    "count": 29
+  },
+  {
     "name": "Lulu - The Man Who Sold the World",
     "count": 29
   },
   {
     "name": "Peter Isaacson - Girl From The North Country",
-    "count": 29
-  },
-  {
-    "name": "Ricky Nelson - Since I Don't Have You",
-    "count": 29
-  },
-  {
-    "name": "Leon Redbone - Ain't Misbehavin' (I'm Savin' My Love For You)",
-    "count": 29
-  },
-  {
-    "name": "Marianne Faithful - Blowin' In The Wind",
     "count": 29
   }
 ]
