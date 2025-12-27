@@ -4,12 +4,12 @@
     "count": 39
   },
   {
-    "name": "Vince Eager - It's Only Make Believe",
+    "name": "Etta James - I'll Drown In My Own Tears",
     "count": 38
   },
   {
-    "name": "Etta James - I'll Drown In My Own Tears",
-    "count": 37
+    "name": "Vince Eager - It's Only Make Believe",
+    "count": 38
   },
   {
     "name": "Dusty Springfield - I Will Come to You",
@@ -36,6 +36,14 @@
     "count": 34
   },
   {
+    "name": "Sam Cooke - Good Times",
+    "count": 33
+  },
+  {
+    "name": "Peggy Lee - Black Coffee",
+    "count": 33
+  },
+  {
     "name": "Vince Eager - I Want You, I Need You, I Lo..",
     "count": 33
   },
@@ -56,15 +64,7 @@
     "count": 32
   },
   {
-    "name": "Sam Cooke - Good Times",
-    "count": 32
-  },
-  {
     "name": "Peggy Lee - I've Got You Under My Skin",
-    "count": 32
-  },
-  {
-    "name": "Peggy Lee - Black Coffee",
     "count": 32
   },
   {
@@ -96,6 +96,10 @@
     "count": 31
   },
   {
+    "name": "Lulu - The Man Who Sold the World",
+    "count": 30
+  },
+  {
     "name": "Patsy Cline - I Fall To Pieces",
     "count": 30
   },
@@ -113,10 +117,6 @@
   },
   {
     "name": "Elvis Presley - Early Mornin' Rain",
-    "count": 29
-  },
-  {
-    "name": "The Platters - Only You",
     "count": 29
   }
 ]
