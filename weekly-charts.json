@@ -36,6 +36,14 @@
     "count": 35
   },
   {
+    "name": "Sam Cooke - Good Times",
+    "count": 34
+  },
+  {
+    "name": "Peggy Lee - You Go To My Head",
+    "count": 34
+  },
+  {
     "name": "Dusty Springfield - I Just Don't Know What to Do With Myself",
     "count": 34
   },
@@ -60,16 +68,12 @@
     "count": 33
   },
   {
-    "name": "Peggy Lee - You Go To My Head",
-    "count": 33
-  },
-  {
     "name": "The Brothers Four - Girl",
     "count": 33
   },
   {
-    "name": "Sam Cooke - Good Times",
-    "count": 33
+    "name": "Ricky Nelson - Since I Don't Have You",
+    "count": 32
   },
   {
     "name": "Peggy Lee - 'Till There Was You",
@@ -88,15 +92,15 @@
     "count": 32
   },
   {
+    "name": "Dusty Springfield - You Don't Have to Say You Love Me",
+    "count": 31
+  },
+  {
     "name": "Bettye LaVette - It Ain’t Me Babe",
     "count": 31
   },
   {
     "name": "Patsy Cline - I Fall To Pieces",
-    "count": 31
-  },
-  {
-    "name": "Ricky Nelson - Since I Don't Have You",
     "count": 31
   },
   {
@@ -114,9 +118,5 @@
   {
     "name": "Peter Isaacson - Early Morning Rain",
     "count": 31
-  },
-  {
-    "name": "Eddie Cochran - Twenty Flight Rock",
-    "count": 30
   }
 ]
