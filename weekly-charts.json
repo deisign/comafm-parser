@@ -1,15 +1,15 @@
 [
   {
+    "name": "Marianne Faithfull - As Tears Go By",
+    "count": 40
+  },
+  {
     "name": "Etta James - I'll Drown In My Own Tears",
     "count": 40
   },
   {
     "name": "Vince Eager - It's Only Make Believe",
     "count": 40
-  },
-  {
-    "name": "Marianne Faithfull - As Tears Go By",
-    "count": 39
   },
   {
     "name": "Dusty Springfield - I Will Come to You",
@@ -34,6 +34,10 @@
   {
     "name": "Marianne Faithful - Sister Morphine",
     "count": 35
+  },
+  {
+    "name": "The Brothers Four - Girl",
+    "count": 34
   },
   {
     "name": "Vince Eager - Jailhouse Rock",
@@ -73,10 +77,6 @@
   },
   {
     "name": "Peggy Lee - I've Got You Under My Skin",
-    "count": 33
-  },
-  {
-    "name": "The Brothers Four - Girl",
     "count": 33
   },
   {
