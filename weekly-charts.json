@@ -32,8 +32,16 @@
     "count": 36
   },
   {
+    "name": "Peggy Lee - Black Coffee",
+    "count": 35
+  },
+  {
     "name": "Marianne Faithful - Sister Morphine",
     "count": 35
+  },
+  {
+    "name": "Everly Brothers - Love Hurts",
+    "count": 34
   },
   {
     "name": "The Brothers Four - Girl",
@@ -56,10 +64,6 @@
     "count": 34
   },
   {
-    "name": "Peggy Lee - Black Coffee",
-    "count": 34
-  },
-  {
     "name": "Vince Eager - I Want You, I Need You, I Lo..",
     "count": 34
   },
@@ -69,10 +73,6 @@
   },
   {
     "name": "Lee Moses - Hey Joe",
-    "count": 33
-  },
-  {
-    "name": "Everly Brothers - Love Hurts",
     "count": 33
   },
   {
@@ -100,6 +100,10 @@
     "count": 32
   },
   {
+    "name": "The Astronauts - Pipeline",
+    "count": 31
+  },
+  {
     "name": "Julie London - Fly Me to the Moon",
     "count": 31
   },
@@ -113,10 +117,6 @@
   },
   {
     "name": "The Platters - Only You",
-    "count": 31
-  },
-  {
-    "name": "Peter Isaacson - Lalena",
     "count": 31
   }
 ]
