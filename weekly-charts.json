@@ -12,20 +12,20 @@
     "count": 40
   },
   {
+    "name": "The Brothers Four - We Can Work It Out",
+    "count": 39
+  },
+  {
     "name": "Dusty Springfield - I Will Come to You",
     "count": 39
   },
   {
+    "name": "Peter Isaacson - Blowin' In The Wind",
+    "count": 38
+  },
+  {
     "name": "Peter Isaacson - I Shall Be Released",
     "count": 38
-  },
-  {
-    "name": "The Brothers Four - We Can Work It Out",
-    "count": 38
-  },
-  {
-    "name": "Peter Isaacson - Blowin' In The Wind",
-    "count": 37
   },
   {
     "name": "Bonnie Raitt - Runaway",
@@ -34,6 +34,10 @@
   {
     "name": "Marianne Faithful - Sister Morphine",
     "count": 36
+  },
+  {
+    "name": "Everly Brothers - Love Hurts",
+    "count": 35
   },
   {
     "name": "Peggy Lee - I've Got You Under My Skin",
@@ -64,16 +68,16 @@
     "count": 34
   },
   {
-    "name": "Everly Brothers - Love Hurts",
-    "count": 34
-  },
-  {
     "name": "Vince Eager - Jailhouse Rock",
     "count": 34
   },
   {
     "name": "Peggy Lee - You Go To My Head",
     "count": 34
+  },
+  {
+    "name": "Peggy Lee - 'Till There Was You",
+    "count": 33
   },
   {
     "name": "Peter Isaacson - Lalena",
@@ -113,10 +117,6 @@
   },
   {
     "name": "The Astronauts - Pipeline",
-    "count": 32
-  },
-  {
-    "name": "The Platters - Only You",
     "count": 32
   }
 ]
