@@ -4,12 +4,12 @@
     "count": 42
   },
   {
-    "name": "Marianne Faithfull - As Tears Go By",
-    "count": 40
+    "name": "Etta James - I'll Drown In My Own Tears",
+    "count": 41
   },
   {
-    "name": "Etta James - I'll Drown In My Own Tears",
-    "count": 40
+    "name": "Marianne Faithfull - As Tears Go By",
+    "count": 41
   },
   {
     "name": "The Brothers Four - We Can Work It Out",
@@ -68,6 +68,10 @@
     "count": 35
   },
   {
+    "name": "Petula Clark - The Windmills Of Your Mind",
+    "count": 34
+  },
+  {
     "name": "Marianne Faithful - Bells Of Freedom",
     "count": 34
   },
@@ -96,12 +100,12 @@
     "count": 33
   },
   {
-    "name": "Petula Clark - The Windmills Of Your Mind",
+    "name": "Lee Moses - Hey Joe",
     "count": 33
   },
   {
-    "name": "Lee Moses - Hey Joe",
-    "count": 33
+    "name": "Peter Isaacson - Black Sheep Boy",
+    "count": 32
   },
   {
     "name": "Peter Isaacson - Early Morning Rain",
@@ -113,10 +117,6 @@
   },
   {
     "name": "The Brothers Four - If I Fell",
-    "count": 32
-  },
-  {
-    "name": "Julie London - Fly Me to the Moon",
     "count": 32
   }
 ]
