@@ -36,6 +36,10 @@
     "count": 37
   },
   {
+    "name": "Everly Brothers - Love Hurts",
+    "count": 36
+  },
+  {
     "name": "Peggy Lee - I've Got You Under My Skin",
     "count": 36
   },
@@ -65,10 +69,6 @@
   },
   {
     "name": "Vince Eager - Jailhouse Rock",
-    "count": 35
-  },
-  {
-    "name": "Everly Brothers - Love Hurts",
     "count": 35
   },
   {
@@ -104,19 +104,19 @@
     "count": 34
   },
   {
+    "name": "Bettye LaVette - It Ain’t Me Babe",
+    "count": 33
+  },
+  {
+    "name": "Eddie Cochran - Twenty Flight Rock",
+    "count": 33
+  },
+  {
     "name": "Peter Isaacson - Black Sheep Boy",
     "count": 33
   },
   {
     "name": "The Astronauts - Pipeline",
-    "count": 33
-  },
-  {
-    "name": "Lee Moses - California Dreaming",
-    "count": 33
-  },
-  {
-    "name": "Lee Moses - Hey Joe",
     "count": 33
   }
 ]
