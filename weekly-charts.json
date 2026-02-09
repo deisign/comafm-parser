@@ -1,7 +1,7 @@
 [
   {
     "name": "Vince Eager - It's Only Make Believe",
-    "count": 45
+    "count": 46
   },
   {
     "name": "Marianne Faithfull - As Tears Go By",
@@ -10,6 +10,10 @@
   {
     "name": "Etta James - I'll Drown In My Own Tears",
     "count": 43
+  },
+  {
+    "name": "Dusty Springfield - I Will Come to You",
+    "count": 42
   },
   {
     "name": "The Brothers Four - We Can Work It Out",
@@ -21,10 +25,6 @@
   },
   {
     "name": "Peter Isaacson - Blowin' In The Wind",
-    "count": 41
-  },
-  {
-    "name": "Dusty Springfield - I Will Come to You",
     "count": 41
   },
   {
@@ -68,6 +68,10 @@
     "count": 38
   },
   {
+    "name": "Marianne Faithful - Blowin' In The Wind",
+    "count": 37
+  },
+  {
     "name": "The Brothers Four - Girl",
     "count": 37
   },
@@ -88,16 +92,16 @@
     "count": 36
   },
   {
-    "name": "Marianne Faithful - Blowin' In The Wind",
-    "count": 36
-  },
-  {
     "name": "Peggy Lee - 'Till There Was You",
     "count": 36
   },
   {
     "name": "Ricky Nelson - Since I Don't Have You",
     "count": 36
+  },
+  {
+    "name": "The Platters - Only You",
+    "count": 35
   },
   {
     "name": "Patsy Cline - I Fall To Pieces",
@@ -113,10 +117,6 @@
   },
   {
     "name": "Dusty Springfield - Yesterday When I Was Young",
-    "count": 35
-  },
-  {
-    "name": "Peter Isaacson - Lalena",
     "count": 35
   }
 ]
