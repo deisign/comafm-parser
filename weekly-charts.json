@@ -28,12 +28,12 @@
     "count": 42
   },
   {
-    "name": "Peggy Lee - I've Got You Under My Skin",
+    "name": "Hilary Woods - Endgames",
     "count": 41
   },
   {
-    "name": "Hilary Woods - Endgames",
-    "count": 40
+    "name": "Peggy Lee - I've Got You Under My Skin",
+    "count": 41
   },
   {
     "name": "Sam Cooke - Good Times",
@@ -60,6 +60,10 @@
     "count": 40
   },
   {
+    "name": "Black Valley Moon - Ethereal Martini",
+    "count": 39
+  },
+  {
     "name": "Everly Brothers - Love Hurts",
     "count": 39
   },
@@ -73,10 +77,6 @@
   },
   {
     "name": "Peter Isaacson - Black Sheep Boy",
-    "count": 38
-  },
-  {
-    "name": "Black Valley Moon - Ethereal Martini",
     "count": 38
   },
   {
@@ -96,6 +96,10 @@
     "count": 38
   },
   {
+    "name": "Mavis Staples - Godspeed",
+    "count": 37
+  },
+  {
     "name": "Sun Bus - One for Beanie",
     "count": 37
   },
@@ -113,10 +117,6 @@
   },
   {
     "name": "Lee Moses - Hey Joe",
-    "count": 37
-  },
-  {
-    "name": "Petula Clark - The Windmills Of Your Mind",
     "count": 37
   }
 ]
