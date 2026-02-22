@@ -32,6 +32,10 @@
     "count": 42
   },
   {
+    "name": "Peggy Lee - Black Coffee",
+    "count": 41
+  },
+  {
     "name": "Bonnie Raitt - Runaway",
     "count": 41
   },
@@ -57,10 +61,6 @@
   },
   {
     "name": "Vince Eager - I Want You, I Need You, I Lo..",
-    "count": 40
-  },
-  {
-    "name": "Peggy Lee - Black Coffee",
     "count": 40
   },
   {
@@ -116,7 +116,7 @@
     "count": 38
   },
   {
-    "name": "The Platters - Only You",
+    "name": "Nico and The Velvet Underground - All Tomorrow's Parties",
     "count": 37
   }
 ]
