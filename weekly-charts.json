@@ -1,11 +1,15 @@
 [
   {
     "name": "Sun Bus - One for Beanie",
-    "count": 72
+    "count": 73
   },
   {
     "name": "Blackball Bandits - Undertow",
     "count": 72
+  },
+  {
+    "name": "Hilary Woods - Endgames",
+    "count": 71
   },
   {
     "name": "Black Valley Moon - Ethereal Martini",
@@ -16,20 +20,16 @@
     "count": 70
   },
   {
-    "name": "Hilary Woods - Endgames",
-    "count": 70
+    "name": "The Surfrajettes - Satan's Holiday",
+    "count": 68
   },
   {
-    "name": "The Surfrajettes - Satan's Holiday",
-    "count": 67
+    "name": "Mavis Staples - Godspeed",
+    "count": 64
   },
   {
     "name": "Mavis Staples - Beautiful Strangers",
     "count": 64
-  },
-  {
-    "name": "Mavis Staples - Godspeed",
-    "count": 63
   },
   {
     "name": "I. Jeziak and The Surfers - Mummy Walk, Pt. II",
@@ -60,6 +60,10 @@
     "count": 53
   },
   {
+    "name": "Atomic Surfonic - Lost",
+    "count": 52
+  },
+  {
     "name": "I. Jeziak and The Surfers - Twilight",
     "count": 52
   },
@@ -72,10 +76,6 @@
     "count": 51
   },
   {
-    "name": "Atomic Surfonic - Lost",
-    "count": 51
-  },
-  {
     "name": "Mark Malibu & the Wasagas - Mini Chopper",
     "count": 51
   },
@@ -84,11 +84,11 @@
     "count": 51
   },
   {
-    "name": "Surf Cult - Space Vampires",
-    "count": 49
+    "name": "David Byrne feat. Ghost Train Orchestra - The Avant Garde",
+    "count": 50
   },
   {
-    "name": "David Byrne feat. Ghost Train Orchestra - The Avant Garde",
+    "name": "Surf Cult - Space Vampires",
     "count": 49
   },
   {
