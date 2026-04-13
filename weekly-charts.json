@@ -1,7 +1,7 @@
 [
   {
     "name": "Mavis Staples - Godspeed",
-    "count": 74
+    "count": 75
   },
   {
     "name": "Sun Bus - One for Beanie",
@@ -37,7 +37,7 @@
   },
   {
     "name": "David Byrne feat. Ghost Train Orchestra - She Explains Things To Me",
-    "count": 58
+    "count": 59
   },
   {
     "name": "I. Jeziak and The Surfers - Mummy Walk, Pt. II",
@@ -85,7 +85,7 @@
   },
   {
     "name": "The Ghiblis - High noon mirage",
-    "count": 50
+    "count": 51
   },
   {
     "name": "Surf Cult - Space Vampires",
@@ -94,6 +94,10 @@
   {
     "name": "David Byrne feat. Ghost Train Orchestra - The Avant Garde",
     "count": 50
+  },
+  {
+    "name": "Los Straitjackets - Polaris",
+    "count": 48
   },
   {
     "name": "Joan Shelley - The Hum",
@@ -114,9 +118,5 @@
   {
     "name": "Peter Isaacson - I Shall Be Released",
     "count": 48
-  },
-  {
-    "name": "Los Straitjackets - Polaris",
-    "count": 47
   }
 ]
