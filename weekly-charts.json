@@ -1,7 +1,7 @@
 [
   {
     "name": "Mavis Staples - Godspeed",
-    "count": 80
+    "count": 81
   },
   {
     "name": "Sun Bus - One for Beanie",
@@ -104,6 +104,10 @@
     "count": 50
   },
   {
+    "name": "Vince Eager - Jailhouse Rock",
+    "count": 48
+  },
+  {
     "name": "Joan Shelley - The Hum",
     "count": 48
   },
@@ -113,10 +117,6 @@
   },
   {
     "name": "Joan Shelley - New Anthem",
-    "count": 48
-  },
-  {
-    "name": "Marianne Faithful - Sister Morphine",
     "count": 48
   }
 ]
